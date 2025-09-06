@@ -1,5 +1,98 @@
 <?xml version="1.0" ?>
-<tv date="20250905223322 +0800">
+<tv date="20250906103500 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250906001200 +0800" stop="20250906010400 +0800">
+		<title lang="zh">重播 2025年CBA夏季联赛:新疆伊力特vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20250906010400 +0800" stop="20250906010800 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250906010800 +0800" stop="20250906020000 +0800">
+		<title lang="zh">重播 2025世俱杯1/4决赛:巴黎圣日耳曼vs拜仁慕尼黑</title>
+	</programme>
+	<programme channel="广东体育" start="20250906020000 +0800" stop="20250906025800 +0800">
+		<title lang="zh">重播 2025世俱杯1/4决赛:皇家马德里vs多特蒙德</title>
+	</programme>
+	<programme channel="广东体育" start="20250906025800 +0800" stop="20250906042800 +0800">
+		<title lang="zh">重播 2025世界F1第12站英国大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250906042800 +0800" stop="20250906045800 +0800">
+		<title lang="zh">重播 德甲精选(252602)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906045800 +0800" stop="20250906052800 +0800">
+		<title lang="zh">重播 劲速天地(202532)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906052800 +0800" stop="20250906054300 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250906054300 +0800" stop="20250906061700 +0800">
+		<title lang="zh">重播 2025中甲第17轮精编版 广东广州豹vs大连鲲城</title>
+	</programme>
+	<programme channel="广东体育" start="20250906061700 +0800" stop="20250906062900 +0800">
+		<title lang="zh">重播 全运回眸(1)10&amp;#039;(新闻专题版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906062900 +0800" stop="20250906075600 +0800">
+		<title lang="zh">重播 全运回眸(19)十三运蹦床女子个人决赛+击剑</title>
+	</programme>
+	<programme channel="广东体育" start="20250906075600 +0800" stop="20250906092500 +0800">
+		<title lang="zh">重播 2025世俱杯1/8决赛:曼城vs利雅得新月</title>
+	</programme>
+	<programme channel="广东体育" start="20250906092500 +0800" stop="20250906094400 +0800">
+		<title lang="zh">重播 全运回眸(3)10&amp;#039;(新闻专题版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906094400 +0800" stop="20250906104800 +0800">
+		<title lang="zh">重播 行走十五运(1)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906104800 +0800" stop="20250906120000 +0800">
+		<title lang="zh">重播 25-26德甲第2轮精编版 多特蒙德vs柏林联盟</title>
+	</programme>
+	<programme channel="广东体育" start="20250906120000 +0800" stop="20250906130500 +0800">
+		<title lang="zh">重播 出奇智胜(727)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906130500 +0800" stop="20250906140000 +0800">
+		<title lang="zh">重播 全运回眸(34)十三运男子佩剑团体决赛 上海vs辽宁</title>
+	</programme>
+	<programme channel="广东体育" start="20250906140000 +0800" stop="20250906153200 +0800">
+		<title lang="zh">首播(好视力广告版)2025年NBL赛场半决赛第二场 香港金牛vs石家庄翔蓝</title>
+	</programme>
+	<programme channel="广东体育" start="20250906153200 +0800" stop="20250906160900 +0800">
+		<title lang="zh">重播 全运回眸(75)十四运体操 女子高低杠决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250906160900 +0800" stop="20250906161900 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906161900 +0800" stop="20250906172500 +0800">
+		<title lang="zh">重播 行走十五运(1)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906172500 +0800" stop="20250906190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国澳门公开赛 女单决赛 陈雨菲vs莱恩</title>
+	</programme>
+	<programme channel="广东体育" start="20250906190000 +0800" stop="20250906192100 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20250906192100 +0800" stop="20250906202100 +0800">
+		<title lang="zh">重播 24-25CBA赛场季后赛12进8第二场 上海久事vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20250906202100 +0800" stop="20250906212200 +0800">
+		<title lang="zh">重播 24-25CBA赛场第43轮 深圳马可波罗vs北京控股</title>
+	</programme>
+	<programme channel="广东体育" start="20250906212200 +0800" stop="20250906215000 +0800">
+		<title lang="zh">重播 行走十五运(1)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906215000 +0800" stop="20250906233200 +0800">
+		<title lang="zh">直播 2025世界一级方程式锦标赛第16站意大利大奖赛(22:00排位赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20250906233200 +0800" stop="20250906234400 +0800">
+		<title lang="zh">重播 全运回眸(1)10&amp;#039;</title>
+	</programme>
+	<programme channel="广东体育" start="20250906234400 +0800" stop="20250906235800 +0800">
+		<title lang="zh">重播 全运回眸(2)10&amp;#039;</title>
+	</programme>
+	<programme channel="广东体育" start="20250906235800 +0800" stop="20250906235900 +0800">
+		<title lang="zh">重播 全运回眸(3)10&amp;#039;</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
