@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-09-06 18:35:00,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+2025-09-07 06:31:56,http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 
 ☘️广东频道,#genre#
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://117.141.162.238:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://117.141.162.238:8181/tsfile/live/1009_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
