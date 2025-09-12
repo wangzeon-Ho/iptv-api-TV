@@ -1,5 +1,74 @@
 <?xml version="1.0" ?>
-<tv date="20250911223241 +0800">
+<tv date="20250912103931 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250912004800 +0800" stop="20250912010000 +0800">
+		<title lang="zh">重播 全运回眸(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912010000 +0800" stop="20250912054300 +0800">
+		<title lang="zh">停机检修</title>
+	</programme>
+	<programme channel="广东体育" start="20250912054300 +0800" stop="20250912063000 +0800">
+		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选(15) 男单1/8决赛 石宇奇vs周天成</title>
+	</programme>
+	<programme channel="广东体育" start="20250912063000 +0800" stop="20250912064500 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末扣篮赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250912064500 +0800" stop="20250912075100 +0800">
+		<title lang="zh">重播 德甲精选(252601)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912075100 +0800" stop="20250912092500 +0800">
+		<title lang="zh">重播 2025世俱杯1/8决赛:曼城vs利雅得新月</title>
+	</programme>
+	<programme channel="广东体育" start="20250912092500 +0800" stop="20250912093900 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912093900 +0800" stop="20250912104100 +0800">
+		<title lang="zh">重播 行走十五运(1)广州篇(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912104100 +0800" stop="20250912104900 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250912104900 +0800" stop="20250912120000 +0800">
+		<title lang="zh">重播 24-25CBA第32轮精编版 深圳马可波罗vs九台农商银行</title>
+	</programme>
+	<programme channel="广东体育" start="20250912120000 +0800" stop="20250912130600 +0800">
+		<title lang="zh">重播 出奇智胜(731)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912130600 +0800" stop="20250912140700 +0800">
+		<title lang="zh">重播 全运回眸(76)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912140700 +0800" stop="20250912155000 +0800">
+		<title lang="zh">重播(好视力广告版)2025年NBL赛场半决赛第二场 香港金牛vs石家庄翔蓝</title>
+	</programme>
+	<programme channel="广东体育" start="20250912155000 +0800" stop="20250912163100 +0800">
+		<title lang="zh">重播 行走十五运(2)(佛山、东莞篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912163100 +0800" stop="20250912164400 +0800">
+		<title lang="zh">首播(改)全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912164400 +0800" stop="20250912173100 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912173100 +0800" stop="20250912190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛日本公开赛精选(4) 女双决赛 刘圣书/谭宁vs陈康乐/蒂娜</title>
+	</programme>
+	<programme channel="广东体育" start="20250912190000 +0800" stop="20250912192100 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20250912192100 +0800" stop="20250912210000 +0800">
+		<title lang="zh">直播 第十五届全国运动会手球项目(女子)B组第三轮(19:30澳门vs广东)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912210000 +0800" stop="20250912220000 +0800">
+		<title lang="zh">实况延播 2025世界羽联世界巡回赛中国香港公开赛1/4决赛精选(11:00 5场18:30 3场)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912220000 +0800" stop="20250912233500 +0800">
+		<title lang="zh">首播 出奇智胜(732)</title>
+	</programme>
+	<programme channel="广东体育" start="20250912233500 +0800" stop="20250912235900 +0800">
+		<title lang="zh">首播 ONE冠军赛(34)</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
