@@ -1,5 +1,86 @@
 <?xml version="1.0" ?>
-<tv date="20250918223256 +0800">
+<tv date="20250919104046 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250919003800 +0800" stop="20250919013000 +0800">
+		<title lang="zh">重播 第十五届全国运动会体操青年组精选(2)女子个人全能、高低杠平衡木跳马全能</title>
+	</programme>
+	<programme channel="广东体育" start="20250919013000 +0800" stop="20250919030000 +0800">
+		<title lang="zh">重播 2025世界F1第16站意大利大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250919030000 +0800" stop="20250919035200 +0800">
+		<title lang="zh">重播 全运回眸(76)十四运女排决赛 天津vs江苏</title>
+	</programme>
+	<programme channel="广东体育" start="20250919035200 +0800" stop="20250919044400 +0800">
+		<title lang="zh">重播 全运回眸(77)十四运艺术体操集体全能决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250919044400 +0800" stop="20250919053600 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛中国澳门公开赛决赛 女单决赛 陈雨菲vs莱恩</title>
+	</programme>
+	<programme channel="广东体育" start="20250919053600 +0800" stop="20250919054300 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250919054300 +0800" stop="20250919063700 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛泰国公开赛精选(1)52&amp;#039;1/8决赛女双 本雅帕/伦塔卡恩vs陈清晨/王汀戈</title>
+	</programme>
+	<programme channel="广东体育" start="20250919063700 +0800" stop="20250919074300 +0800">
+		<title lang="zh">重播 德甲精选(252603)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919074300 +0800" stop="20250919080100 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919080100 +0800" stop="20250919081500 +0800">
+		<title lang="zh">重播 全运回眸(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919081500 +0800" stop="20250919120500 +0800">
+		<title lang="zh">直播 2025NFL职业橄榄球大联盟常规赛第3周(08:15迈阿密海豚@布法罗比尔)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919120500 +0800" stop="20250919131600 +0800">
+		<title lang="zh">重播 出奇智胜(736)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919131600 +0800" stop="20250919141800 +0800">
+		<title lang="zh">重播 全运回眸(78)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919141800 +0800" stop="20250919155200 +0800">
+		<title lang="zh">重播(好视力广告版)2025年CBA夏季联赛:新疆伊力特vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20250919155200 +0800" stop="20250919160100 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA广东东阳光版0520)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919160100 +0800" stop="20250919162600 +0800">
+		<title lang="zh">重播 全运回眸(41)十二运游泳项目比赛(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919162600 +0800" stop="20250919163900 +0800">
+		<title lang="zh">重播 全运回眸(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919163900 +0800" stop="20250919172500 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919172500 +0800" stop="20250919190000 +0800">
+		<title lang="zh">首播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919190000 +0800" stop="20250919192100 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20250919192100 +0800" stop="20250919211600 +0800">
+		<title lang="zh">直播 2025年NBL全国男子篮球联赛总决赛第三场(19:30香港金牛vs长沙电信勇胜)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919211600 +0800" stop="20250919212800 +0800">
+		<title lang="zh">重播 全运回眸(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919212800 +0800" stop="20250919213500 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250919213500 +0800" stop="20250919215300 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末扣篮赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250919215300 +0800" stop="20250919232800 +0800">
+		<title lang="zh">首播 出奇智胜(737)</title>
+	</programme>
+	<programme channel="广东体育" start="20250919232800 +0800" stop="20250919235900 +0800">
+		<title lang="zh">重播 第十五届全国运动会体操青年组精选(1)女子团体决赛</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
