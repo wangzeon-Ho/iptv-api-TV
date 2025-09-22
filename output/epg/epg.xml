@@ -1,5 +1,83 @@
 <?xml version="1.0" ?>
-<tv date="20250921223424 +0800">
+<tv date="20250922104418 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250922004800 +0800" stop="20250922014000 +0800">
+		<title lang="zh">重播 全运回眸(59)十二运乒乓球男单半决赛 马龙vs王皓 目</title>
+	</programme>
+	<programme channel="广东体育" start="20250922014000 +0800" stop="20250922023800 +0800">
+		<title lang="zh">重播 全运回眸(60)十二运乒乓球男单半决赛 樊振东vs许昕</title>
+	</programme>
+	<programme channel="广东体育" start="20250922023800 +0800" stop="20250922033600 +0800">
+		<title lang="zh">重播 2025年NBL赛场第9轮 广西威壮vs香港金牛</title>
+	</programme>
+	<programme channel="广东体育" start="20250922033600 +0800" stop="20250922034000 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250922034000 +0800" stop="20250922051000 +0800">
+		<title lang="zh">重播 2025世界F1第15站荷兰大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250922051000 +0800" stop="20250922054300 +0800">
+		<title lang="zh">重播 25-26德甲第1轮精编版 勒沃库森vs霍芬海姆</title>
+	</programme>
+	<programme channel="广东体育" start="20250922054300 +0800" stop="20250922123700 +0800">
+		<title lang="zh">重播 2025年成都世界运动会精选(1):龙舟8人座公开组2000米决赛；男子、女子单人皮艇短距离决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250922065300 +0800" stop="20250922082700 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛中国澳门公开赛决赛 女单决赛 陈雨菲vs莱恩</title>
+	</programme>
+	<programme channel="广东体育" start="20250922082700 +0800" stop="20250922093200 +0800">
+		<title lang="zh">重播 全运回眸(24)十三运赛艇项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20250922093200 +0800" stop="20250922094600 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922094600 +0800" stop="20250922105100 +0800">
+		<title lang="zh">重播 2025中甲第22轮精编版 广东广州豹vs石家庄功夫</title>
+	</programme>
+	<programme channel="广东体育" start="20250922105100 +0800" stop="20250922120000 +0800">
+		<title lang="zh">重播 行走十五运(1)广州篇(</title>
+	</programme>
+	<programme channel="广东体育" start="20250922120000 +0800" stop="20250922130600 +0800">
+		<title lang="zh">重播 出奇智胜(737)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922130600 +0800" stop="20250922140800 +0800">
+		<title lang="zh">重播 全运回眸(78)十四运蹦床女子团体决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250922140800 +0800" stop="20250922154100 +0800">
+		<title lang="zh">重播(好视力广告版)第十五届全国运动会体操青年组精选(2) 女子个人全能、高低杠平衡木跳马全能</title>
+	</programme>
+	<programme channel="广东体育" start="20250922154100 +0800" stop="20250922162500 +0800">
+		<title lang="zh">重播 行走十五运(3)(惠州篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922162500 +0800" stop="20250922163800 +0800">
+		<title lang="zh">重播 全运回眸(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922163800 +0800" stop="20250922172500 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922172500 +0800" stop="20250922190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(1) 女单决赛 王祉怡vs韩悦</title>
+	</programme>
+	<programme channel="广东体育" start="20250922190000 +0800" stop="20250922193000 +0800">
+		<title lang="zh">直播 全运进行时(21)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922193000 +0800" stop="20250922200100 +0800">
+		<title lang="zh">首播 行走十五运(4)(战马广告版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922200100 +0800" stop="20250922213100 +0800">
+		<title lang="zh">直播 2025年NBL全国男子篮球联赛总决赛第四场(19:30长沙电信勇胜vs香港金牛)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922213100 +0800" stop="20250922215300 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922215300 +0800" stop="20250922232500 +0800">
+		<title lang="zh">首播 出奇智胜(738)</title>
+	</programme>
+	<programme channel="广东体育" start="20250922232500 +0800" stop="20250922235900 +0800">
+		<title lang="zh">首播 羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(2)梁伟铿/王昶vs谢蒂/兰吉雷迪</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
