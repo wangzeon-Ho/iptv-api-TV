@@ -1,5 +1,92 @@
 <?xml version="1.0" ?>
-<tv date="20250928223317 +0800">
+<tv date="20250929104510 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250929002900 +0800" stop="20250929005500 +0800">
+		<title lang="zh">重播 行走十五运(4)(汕头汕尾篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929005500 +0800" stop="20250929014700 +0800">
+		<title lang="zh">重播 全运回眸(67)十四运跳水男子十米台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250929014700 +0800" stop="20250929021300 +0800">
+		<title lang="zh">重播 全运回眸(68)十四运体操男子自由体操决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250929021300 +0800" stop="20250929022300 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929022300 +0800" stop="20250929022800 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0225)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929022800 +0800" stop="20250929032600 +0800">
+		<title lang="zh">重播 2025年NBL赛场总决赛第一场 长沙电信勇胜vs香港金牛</title>
+	</programme>
+	<programme channel="广东体育" start="20250929032600 +0800" stop="20250929045600 +0800">
+		<title lang="zh">重播 2025世界F1第17站阿塞拜疆大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250929045600 +0800" stop="20250929050400 +0800">
+		<title lang="zh">重播 全运回眸(27)十三运游泳项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20250929050400 +0800" stop="20250929054300 +0800">
+		<title lang="zh">重播 德甲精选(252604)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929054300 +0800" stop="20250929063800 +0800">
+		<title lang="zh">重播 2025年成都世界运动会精选(3):尾波滑水女子自由式决赛、蹦床女子双人同步决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250929063800 +0800" stop="20250929064800 +0800">
+		<title lang="zh">重播 全运回眸(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929064800 +0800" stop="20250929082300 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛日本公开赛精选(1) 男单半决赛 石宇奇vs小波波夫</title>
+	</programme>
+	<programme channel="广东体育" start="20250929082300 +0800" stop="20250929092700 +0800">
+		<title lang="zh">重播 全运回眸(25)十三运男子25米手枪速射</title>
+	</programme>
+	<programme channel="广东体育" start="20250929092700 +0800" stop="20250929094100 +0800">
+		<title lang="zh">重播 全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929094100 +0800" stop="20250929104700 +0800">
+		<title lang="zh">重播 第十五届全国运动会足球项目女子16岁以下组小组赛 广东vs宁夏</title>
+	</programme>
+	<programme channel="广东体育" start="20250929104700 +0800" stop="20250929120000 +0800">
+		<title lang="zh">重播 行走十五运(2)(佛山、东莞篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929120000 +0800" stop="20250929130600 +0800">
+		<title lang="zh">重播 出奇智胜(742)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929130600 +0800" stop="20250929140800 +0800">
+		<title lang="zh">重播(好视力广告版)2025年NBL赛场总决赛第一场 长沙电信勇胜vs香港金牛</title>
+	</programme>
+	<programme channel="广东体育" start="20250929140800 +0800" stop="20250929154100 +0800">
+		<title lang="zh">首播 2025杭州网球公开赛半决赛(1)鲁瓦耶vs穆泰</title>
+	</programme>
+	<programme channel="广东体育" start="20250929154100 +0800" stop="20250929162500 +0800">
+		<title lang="zh">重播 行走十五运(4)(汕头汕尾篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929162500 +0800" stop="20250929163800 +0800">
+		<title lang="zh">重播(改)全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929163800 +0800" stop="20250929172500 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929172500 +0800" stop="20250929190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(2) 男双决赛 梁伟铿/王昶vs谢蒂/兰吉雷迪</title>
+	</programme>
+	<programme channel="广东体育" start="20250929190000 +0800" stop="20250929193000 +0800">
+		<title lang="zh">直播 全运进行时(22)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929193000 +0800" stop="20250929200000 +0800">
+		<title lang="zh">首播 行走十五运(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929200000 +0800" stop="20250929221000 +0800">
+		<title lang="zh">直播 第十五届全国运动会跆拳道(15:00 男子+80公斤级、女子+67公斤级)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929221000 +0800" stop="20250929234500 +0800">
+		<title lang="zh">首播 出奇智胜(743)</title>
+	</programme>
+	<programme channel="广东体育" start="20250929234500 +0800" stop="20250929235900 +0800">
+		<title lang="zh">首播 羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(4)改42&amp;#039;混双决赛 郭新娃/陈芳卉vs冯彦哲/黄东萍</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
