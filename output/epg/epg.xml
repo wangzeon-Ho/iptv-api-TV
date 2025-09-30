@@ -1,5 +1,83 @@
 <?xml version="1.0" ?>
-<tv date="20250929222754 +0800">
+<tv date="20250930104540 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250930004500 +0800" stop="20250930022100 +0800">
+		<title lang="zh">重播 2025世界F1第17站阿塞拜疆大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930022100 +0800" stop="20250930031300 +0800">
+		<title lang="zh">重播 2025年成都世界运动会精选(1):龙舟8人座公开组2000米决赛；男子、女子单人皮艇短距离决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930031300 +0800" stop="20250930040600 +0800">
+		<title lang="zh">重播 2025年成都世界运动会精选(3):尾波滑水女子自由式决赛、蹦床女子双人同步决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930040600 +0800" stop="20250930041600 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250930041600 +0800" stop="20250930050800 +0800">
+		<title lang="zh">重播 全运回眸(4)十四运跳水女子3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930050800 +0800" stop="20250930053600 +0800">
+		<title lang="zh">重播 2025中甲第22轮精编版 广东广州豹vs石家庄功夫</title>
+	</programme>
+	<programme channel="广东体育" start="20250930053600 +0800" stop="20250930054300 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250930054300 +0800" stop="20250930071500 +0800">
+		<title lang="zh">重播 2025世界F1第16站意大利大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930071500 +0800" stop="20250930072700 +0800">
+		<title lang="zh">重播 全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930072700 +0800" stop="20250930081500 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930081500 +0800" stop="20250930120500 +0800">
+		<title lang="zh">直播 2025NFL职业橄榄球大联盟常规赛第4周(08:15辛辛那提猛虎@丹佛野马)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930120500 +0800" stop="20250930131100 +0800">
+		<title lang="zh">重播 出奇智胜(743)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930131100 +0800" stop="20250930140600 +0800">
+		<title lang="zh">重播 全运回眸(14)十三运羽毛球赛事精选:男单决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930140600 +0800" stop="20250930153900 +0800">
+		<title lang="zh">重播(好视力广告版)第十五届全国运动会体操青年组精选(3)男子个人全能决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930153900 +0800" stop="20250930161900 +0800">
+		<title lang="zh">重播 行走十五运(5)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930161900 +0800" stop="20250930163400 +0800">
+		<title lang="zh">重播 全运回眸(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930163400 +0800" stop="20250930171400 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930171400 +0800" stop="20250930172500 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0225)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930172500 +0800" stop="20250930190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国澳门公开赛 女单决赛 陈雨菲vs莱恩</title>
+	</programme>
+	<programme channel="广东体育" start="20250930190000 +0800" stop="20250930192300 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20250930192300 +0800" stop="20250930202300 +0800">
+		<title lang="zh">首播 2025杭州网球公开赛半决赛(2)布勃里克vs吴易昺</title>
+	</programme>
+	<programme channel="广东体育" start="20250930202300 +0800" stop="20250930212200 +0800">
+		<title lang="zh">首播 2025杭州网球公开赛决赛 鲁瓦耶vs布勃里克</title>
+	</programme>
+	<programme channel="广东体育" start="20250930212200 +0800" stop="20250930215300 +0800">
+		<title lang="zh">重播 全运回眸(28)十三运跳水男子双人十米台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250930215300 +0800" stop="20250930232800 +0800">
+		<title lang="zh">首播 出奇智胜(744)</title>
+	</programme>
+	<programme channel="广东体育" start="20250930232800 +0800" stop="20250930235900 +0800">
+		<title lang="zh">首播 劲速天地(202536)</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
