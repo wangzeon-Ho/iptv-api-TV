@@ -1,5 +1,92 @@
 <?xml version="1.0" ?>
-<tv date="20250930223436 +0800">
+<tv date="20251001101613 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251001000100 +0800" stop="20251001002600 +0800">
+		<title lang="zh">重播 全运回眸(6)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001002600 +0800" stop="20251001005600 +0800">
+		<title lang="zh">首播 德甲精选(252605)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001005600 +0800" stop="20251001013000 +0800">
+		<title lang="zh">首播 2025中甲第24轮精编版 上海嘉定汇龙vs广东广州豹</title>
+	</programme>
+	<programme channel="广东体育" start="20251001013000 +0800" stop="20251001022200 +0800">
+		<title lang="zh">重播 2025年NBL赛场总决赛第一场 长沙电信勇胜vs香港金牛</title>
+	</programme>
+	<programme channel="广东体育" start="20251001022200 +0800" stop="20251001022600 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20251001022600 +0800" stop="20251001035600 +0800">
+		<title lang="zh">重播 2025世界F1第16站意大利大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251001035600 +0800" stop="20251001044800 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼公开赛精选(1) 女双半决赛 刘圣书/谭宁vs白荷娜/李昭希</title>
+	</programme>
+	<programme channel="广东体育" start="20251001044800 +0800" stop="20251001054300 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼公开赛精选(2) 女单第一轮 波恩皮查vs陈雨菲 ；杨佳敏vs韩悦</title>
+	</programme>
+	<programme channel="广东体育" start="20251001054300 +0800" stop="20251001063700 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(2)梁伟铿/王昶vs谢蒂/兰吉雷迪</title>
+	</programme>
+	<programme channel="广东体育" start="20251001063700 +0800" stop="20251001065300 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251001065300 +0800" stop="20251001082700 +0800">
+		<title lang="zh">重播 全运回眸(12)十四运马术盛装舞步个人决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251001082700 +0800" stop="20251001093600 +0800">
+		<title lang="zh">重播 全运回眸(28)十三运跳水男子双人十米台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251001093600 +0800" stop="20251001104400 +0800">
+		<title lang="zh">重播 德甲精选(252605)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001104400 +0800" stop="20251001120000 +0800">
+		<title lang="zh">重播 劲速天地(202536)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001120000 +0800" stop="20251001130600 +0800">
+		<title lang="zh">重播 出奇智胜(744)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001130600 +0800" stop="20251001135600 +0800">
+		<title lang="zh">重播 全运回眸(44)十二运羽毛球女单决赛 李雪芮vs刘鑫</title>
+	</programme>
+	<programme channel="广东体育" start="20251001135600 +0800" stop="20251001152900 +0800">
+		<title lang="zh">重播(好视力广告版)2025年NBL赛场第12轮 香港金牛vs合肥狂风峻茂</title>
+	</programme>
+	<programme channel="广东体育" start="20251001152900 +0800" stop="20251001161000 +0800">
+		<title lang="zh">重播 行走十五运(3)(惠州篇)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001161000 +0800" stop="20251001171000 +0800">
+		<title lang="zh">重播 第十五届全国运动会足球项目女子16岁以下组小组赛 广东vs宁夏</title>
+	</programme>
+	<programme channel="广东体育" start="20251001171000 +0800" stop="20251001172500 +0800">
+		<title lang="zh">重播 全运回眸(5)10&amp;#039;(新闻专题版)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001172500 +0800" stop="20251001190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛泰国公开赛精选(3)女单决赛 李美妙vs陈雨菲</title>
+	</programme>
+	<programme channel="广东体育" start="20251001190000 +0800" stop="20251001192600 +0800">
+		<title lang="zh">直播 全运进行时</title>
+	</programme>
+	<programme channel="广东体育" start="20251001192600 +0800" stop="20251001195900 +0800">
+		<title lang="zh">首播 行走十五运(5)(云浮肇庆篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001195900 +0800" stop="20251001201000 +0800">
+		<title lang="zh">重播(改)全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001201000 +0800" stop="20251001211800 +0800">
+		<title lang="zh">重播 广东广播电视台十五运和残特奥会倒计时100天暨全运频道正式启动特别活动</title>
+	</programme>
+	<programme channel="广东体育" start="20251001211800 +0800" stop="20251001215300 +0800">
+		<title lang="zh">重播 第十五届全国运动会足球项目女子18岁以下组小组赛 广东vs浙江</title>
+	</programme>
+	<programme channel="广东体育" start="20251001215300 +0800" stop="20251001233000 +0800">
+		<title lang="zh">首播 出奇智胜(745)</title>
+	</programme>
+	<programme channel="广东体育" start="20251001233000 +0800" stop="20251001235900 +0800">
+		<title lang="zh">首播 25-26德甲第5轮精编版 圣保利vs勒沃库森</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
