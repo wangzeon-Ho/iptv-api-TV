@@ -1,5 +1,71 @@
 <?xml version="1.0" ?>
-<tv date="20251009221255 +0800">
+<tv date="20251010101717 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251010002000 +0800" stop="20251010002300 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0422)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010002300 +0800" stop="20251010002600 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA广东东阳光版0520)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010002600 +0800" stop="20251010003600 +0800">
+		<title lang="zh">重播 全运回眸(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010003600 +0800" stop="20251010005600 +0800">
+		<title lang="zh">重播 全运回眸(23)十三运田径项目精选(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010005600 +0800" stop="20251010010000 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20251010010000 +0800" stop="20251010053300 +0800">
+		<title lang="zh">停机检修4小时30分到次日早上05:30</title>
+	</programme>
+	<programme channel="广东体育" start="20251010053300 +0800" stop="20251010063200 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼公开赛精选(3)52&amp;#039;男单半决赛 石宇奇vs安东森</title>
+	</programme>
+	<programme channel="广东体育" start="20251010063200 +0800" stop="20251010064900 +0800">
+		<title lang="zh">重播 全运回眸(26)十三运田径项目精选(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010064900 +0800" stop="20251010081500 +0800">
+		<title lang="zh">重播 全运回眸(76)十四运女排决赛 天津vs江苏</title>
+	</programme>
+	<programme channel="广东体育" start="20251010081500 +0800" stop="20251010120500 +0800">
+		<title lang="zh">直播 2025NFL职业橄榄球大联盟常规赛第6周(08:15费城老鹰@纽约巨人)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010120500 +0800" stop="20251010131100 +0800">
+		<title lang="zh">重播 出奇智胜(751)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010131100 +0800" stop="20251010141300 +0800">
+		<title lang="zh">重播 全运回眸(79)十四运羽毛球女单决赛 陈雨菲vs何冰娇</title>
+	</programme>
+	<programme channel="广东体育" start="20251010141300 +0800" stop="20251010155300 +0800">
+		<title lang="zh">重播(好视力广告版)2025世俱杯半决赛2:弗卢米嫩塞vs切尔西</title>
+	</programme>
+	<programme channel="广东体育" start="20251010155300 +0800" stop="20251010160700 +0800">
+		<title lang="zh">重播 全运回眸(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010160700 +0800" stop="20251010162500 +0800">
+		<title lang="zh">重播 全运回眸(6)br /</title>
+	</programme>
+	<programme channel="广东体育" start="20251010162500 +0800" stop="20251010173500 +0800">
+		<title lang="zh">重播 行走十五运(3)(惠州篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010173500 +0800" stop="20251010190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国香港公开赛(4)改42&amp;#039;混双决赛 郭新娃/陈芳卉vs冯彦哲/黄东萍</title>
+	</programme>
+	<programme channel="广东体育" start="20251010190000 +0800" stop="20251010192100 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251010192100 +0800" stop="20251010215300 +0800">
+		<title lang="zh">直播 2025世界羽联世界巡回赛北极公开赛1/4决赛(18:00 8场)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010215300 +0800" stop="20251010233000 +0800">
+		<title lang="zh">首播 出奇智胜(752)</title>
+	</programme>
+	<programme channel="广东体育" start="20251010233000 +0800" stop="20251010235900 +0800">
+		<title lang="zh">首播 ONE冠军赛(36)</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
