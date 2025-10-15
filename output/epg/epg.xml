@@ -1,5 +1,122 @@
 <?xml version="1.0" ?>
-<tv date="20251014221417 +0800">
+<tv date="20251015101756 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251015002800 +0800" stop="20251015005400 +0800">
+		<title lang="zh">首播2025中甲第26轮精编版广东广州豹vs南京城市</title>
+	</programme>
+	<programme channel="广东体育" start="20251015005400 +0800" stop="20251015012400 +0800">
+		<title lang="zh">重播德甲精选(252606)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015012400 +0800" stop="20251015012800 +0800">
+		<title lang="zh">重播MV全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20251015012800 +0800" stop="20251015025800 +0800">
+		<title lang="zh">重播2025世界F1第18站新加坡大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251015025800 +0800" stop="20251015030100 +0800">
+		<title lang="zh">重播十分好球(2425赛季CBA版0211)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015030100 +0800" stop="20251015030400 +0800">
+		<title lang="zh">重播十分好球(2425赛季CBA深圳马可波罗队版0422)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015030400 +0800" stop="20251015031200 +0800">
+		<title lang="zh">重播全运回眸(27)十三运游泳项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251015031200 +0800" stop="20251015032700 +0800">
+		<title lang="zh">重播全运回眸(61)十二运游泳项目比赛(6)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015032700 +0800" stop="20251015041900 +0800">
+		<title lang="zh">重播羽乐无限2025世界羽联世界巡回赛印尼公开赛精选(1)女双半决赛刘圣书谭宁vs白荷娜李昭希</title>
+	</programme>
+	<programme channel="广东体育" start="20251015041900 +0800" stop="20251015051100 +0800">
+		<title lang="zh">重播羽乐无限2025世界羽联世界巡回赛印尼公开赛精选(2)女单第一轮波恩皮查vs陈雨菲杨佳敏vs韩悦</title>
+	</programme>
+	<programme channel="广东体育" start="20251015051100 +0800" stop="20251015051400 +0800">
+		<title lang="zh">重播十分好球(2425赛季CBA版0225)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015051400 +0800" stop="20251015054300 +0800">
+		<title lang="zh">重播行走十五运(1)(广州篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015054300 +0800" stop="20251015063700 +0800">
+		<title lang="zh">重播2025年成都世界运动会精选(3)尾波滑水女子自由式决赛蹦床女子双人同步决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251015063700 +0800" stop="20251015064700 +0800">
+		<title lang="zh">重播全运回眸(27)十三运游泳项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251015064700 +0800" stop="20251015081100 +0800">
+		<title lang="zh">重播全运回眸(4)十四运跳水女子3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251015081100 +0800" stop="20251015081500 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015081500 +0800" stop="20251015082100 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(2425赛季CBA广东东阳光版0520)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015082100 +0800" stop="20251015085000 +0800">
+		<title lang="zh">重播羽乐无限2025全英羽毛球公开赛精选(8)改26039女双半决赛松山奈未志田千阳vs刘圣书谭宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251015085000 +0800" stop="20251015102800 +0800">
+		<title lang="zh">直播第十五届全国运动会射击(0900男子10米气步枪团体决赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015102800 +0800" stop="20251015103100 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(2425赛季CBA版0408)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015103100 +0800" stop="20251015103600 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(2425赛季CBA版0422)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015103600 +0800" stop="20251015114900 +0800">
+		<title lang="zh">重播劲速天地(202538)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015114900 +0800" stop="20251015120300 +0800">
+		<title lang="zh">重播全运回眸(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015120300 +0800" stop="20251015122000 +0800">
+		<title lang="zh">重播2025年CBA全明星周末扣篮赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251015122000 +0800" stop="20251015135400 +0800">
+		<title lang="zh">直播第十五届全国运动会射击(1230女子25米手枪决赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015135400 +0800" stop="20251015135700 +0800">
+		<title lang="zh">重播十分好球(2425赛季CBA版0325)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015135700 +0800" stop="20251015141600 +0800">
+		<title lang="zh">重播全运回眸(23)十三运田径项目精选(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015141600 +0800" stop="20251015142000 +0800">
+		<title lang="zh">重播MV全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20251015142000 +0800" stop="20251015160600 +0800">
+		<title lang="zh">直播第十五届全国运动会射击(1430男子10米气手枪决赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015160600 +0800" stop="20251015161200 +0800">
+		<title lang="zh">重播十分好球(2425赛季CBA版0325)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015161200 +0800" stop="20251015162000 +0800">
+		<title lang="zh">重播全运回眸(27)十三运游泳项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251015162000 +0800" stop="20251015162700 +0800">
+		<title lang="zh">重播MV全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20251015162700 +0800" stop="20251015173700 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限2025世界羽联世界巡回赛中国香港公开赛(6)男双半决赛梁伟铿王昶vs李芳至李芳任</title>
+	</programme>
+	<programme channel="广东体育" start="20251015173700 +0800" stop="20251015190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限2025世界羽联世界巡回赛日本公开赛精选(6)女单决赛安洗莹vs王祉怡</title>
+	</programme>
+	<programme channel="广东体育" start="20251015190000 +0800" stop="20251015192100 +0800">
+		<title lang="zh">直播体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251015192100 +0800" stop="20251015215300 +0800">
+		<title lang="zh">直播2025世界羽联世界巡回赛丹麦公开赛第一轮(1510场)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015215300 +0800" stop="20251015233000 +0800">
+		<title lang="zh">首播出奇智胜(756)</title>
+	</programme>
+	<programme channel="广东体育" start="20251015233000 +0800" stop="20251015235900 +0800">
+		<title lang="zh">首播ONE周刊(120)</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
