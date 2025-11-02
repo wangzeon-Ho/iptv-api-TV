@@ -1,204 +1,150 @@
 <?xml version="1.0" ?>
-<tv date="20251102101515 +0800">
-	<channel id="广东体育">
-		<display-name lang="zh">广东体育</display-name>
-	</channel>
-	<programme channel="广东体育" start="20251102003400 +0800" stop="20251102005300 +0800">
-		<title lang="zh">重播 全运回眸(1)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102005300 +0800" stop="20251102014500 +0800">
-		<title lang="zh">重播 第十五届全国运动会女子手球项目精选(1)半决赛 安徽vs广东</title>
-	</programme>
-	<programme channel="广东体育" start="20251102014500 +0800" stop="20251102023500 +0800">
-		<title lang="zh">重播 第十五届全国运动会跆拳道项目精选(1)男子58公斤级半决赛、决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20251102023500 +0800" stop="20251102033100 +0800">
-		<title lang="zh">重播 第十五届全国运动会蹦床项目精选(1)男子团体决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20251102033100 +0800" stop="20251102042300 +0800">
-		<title lang="zh">重播 第十五届全国运动会体操青年组精选(1)女子团体决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20251102042300 +0800" stop="20251102045000 +0800">
-		<title lang="zh">重播 行走十五运(5)(云浮肇庆篇)(纯节目版)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102045000 +0800" stop="20251102052000 +0800">
-		<title lang="zh">重播 行走十五运(2)(佛山、东莞篇)(纯节目版)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102052000 +0800" stop="20251102053000 +0800">
-		<title lang="zh">重播 MV:全运来四方</title>
-	</programme>
-	<programme channel="广东体育" start="20251102053000 +0800" stop="20251102054100 +0800">
-		<title lang="zh">重播 全运回眸(4)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102054100 +0800" stop="20251102063500 +0800">
-		<title lang="zh">重播 全运回眸(18)十三运男子花剑团体决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20251102063500 +0800" stop="20251102070100 +0800">
-		<title lang="zh">重播 行走十五运(4)(汕头汕尾篇)(纯节目版)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102070100 +0800" stop="20251102082300 +0800">
-		<title lang="zh">重播 全运回眸(31)十三运体操女子个人全能决赛、男子射箭决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20251102082300 +0800" stop="20251102085500 +0800">
-		<title lang="zh">重播25-26德甲第7轮精编版 沃尔夫斯堡vs斯图加特</title>
-	</programme>
-	<programme channel="广东体育" start="20251102085500 +0800" stop="20251102120000 +0800">
-		<title lang="zh">直播 第十五届全国运动会火炬传递(09:00)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102120000 +0800" stop="20251102135500 +0800">
-		<title lang="zh">实况延播 中华人民共和国第十五届运动会(10:00 女子团体双人3米跳板、11:00 女子团体10米跳台)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102135500 +0800" stop="20251102153700 +0800">
-		<title lang="zh">直播 中华人民共和国第十五届运动会手球男子预赛B组第3场(14:00 广东vs山东)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102153700 +0800" stop="20251102155100 +0800">
-		<title lang="zh">重播 全运回眸(5)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102155100 +0800" stop="20251102161100 +0800">
-		<title lang="zh">重播 全运回眸(6)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102161100 +0800" stop="20251102172000 +0800">
-		<title lang="zh">重播 2025中甲第21轮精编版 佛山南狮vs广东广州豹</title>
-	</programme>
-	<programme channel="广东体育" start="20251102172000 +0800" stop="20251102175000 +0800">
-		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选(8)改26&amp;#039;女双半决赛 松山奈未/志田千阳vs刘圣书/谭宁</title>
-	</programme>
-	<programme channel="广东体育" start="20251102175000 +0800" stop="20251102200000 +0800">
-		<title lang="zh">直播 中华人民共和国第十五届运动会跳水(18:00女子团体3米板决赛、19:00女子团体双人10米台决赛)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102200000 +0800" stop="20251102215300 +0800">
-		<title lang="zh">实况延播中华人民共和国第十五届运动会曲棍球男子预赛B组(18:00广东vs澳门)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102215300 +0800" stop="20251102232800 +0800">
-		<title lang="zh">重播 出奇智胜(768)</title>
-	</programme>
-	<programme channel="广东体育" start="20251102232800 +0800" stop="20251102235900 +0800">
-		<title lang="zh">重播 行走十五运(4)(汕头汕尾篇)(纯节目版)</title>
-	</programme>
+<tv date="20251102221356 +0800">
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
-	<programme channel="翡翠台" start="20251102000000 +0800" stop="20251102013000 +0800">
-		<title lang="zh">无业楼民#21[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102013000 +0800" stop="20251102013500 +0800">
+	<programme channel="翡翠台" start="20251103000000 +0800" stop="20251103003500 +0800">
 		<title lang="zh">宣传易[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102013500 +0800" stop="20251102020000 +0800">
+	<programme channel="翡翠台" start="20251103003500 +0800" stop="20251103010000 +0800">
 		<title lang="zh">东张西望[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102020000 +0800" stop="20251102020500 +0800">
+	<programme channel="翡翠台" start="20251103010000 +0800" stop="20251103011000 +0800">
 		<title lang="zh">宣传易[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102020500 +0800" stop="20251102023500 +0800">
-		<title lang="zh">我们香港变幻时[粤]</title>
+	<programme channel="翡翠台" start="20251103011000 +0800" stop="20251103021000 +0800">
+		<title lang="zh">大师级大观园[粤/英]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102023500 +0800" stop="20251102030500 +0800">
-		<title lang="zh">黄金盛宴[粤]</title>
+	<programme channel="翡翠台" start="20251103021000 +0800" stop="20251103024000 +0800">
+		<title lang="zh">科学一眼看清[粤/英]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102030500 +0800" stop="20251102033000 +0800">
+	<programme channel="翡翠台" start="20251103024000 +0800" stop="20251103031000 +0800">
+		<title lang="zh">西葡潮什么[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103031000 +0800" stop="20251103034000 +0800">
 		<title lang="zh">香港本色[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102033000 +0800" stop="20251102040000 +0800">
-		<title lang="zh">手匠传承[粤/韩]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102040000 +0800" stop="20251102050000 +0800">
-		<title lang="zh">沿著运河看中国[粤/英][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102050000 +0800" stop="20251102060000 +0800">
-		<title lang="zh">一路前行II[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102060000 +0800" stop="20251102070000 +0800">
-		<title lang="zh">区区开伙[粤][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102070000 +0800" stop="20251102073000 +0800">
-		<title lang="zh">关你家事[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102073000 +0800" stop="20251102080000 +0800">
-		<title lang="zh">关你家事[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102080000 +0800" stop="20251102090000 +0800">
-		<title lang="zh">京都画报[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102090000 +0800" stop="20251102093000 +0800">
-		<title lang="zh">星梦频道[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102093000 +0800" stop="20251102100000 +0800">
-		<title lang="zh">星梦频道[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102100000 +0800" stop="20251102103000 +0800">
-		<title lang="zh">爱犬讯号[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102103000 +0800" stop="20251102110000 +0800">
-		<title lang="zh">爱犬讯号[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102110000 +0800" stop="20251102113000 +0800">
-		<title lang="zh">讲清讲楚[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102113000 +0800" stop="20251102115500 +0800">
+	<programme channel="翡翠台" start="20251103034000 +0800" stop="20251103040500 +0800">
 		<title lang="zh">12个夏天[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102115500 +0800" stop="20251102120000 +0800">
+	<programme channel="翡翠台" start="20251103040500 +0800" stop="20251103043000 +0800">
+		<title lang="zh">食好D 食平D[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103043000 +0800" stop="20251103050000 +0800">
+		<title lang="zh">食好D 食平D[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103050000 +0800" stop="20251103060000 +0800">
+		<title lang="zh">京都画报[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103060000 +0800" stop="20251103074000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103074000 +0800" stop="20251103081000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103081000 +0800" stop="20251103084000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103084000 +0800" stop="20251103090000 +0800">
+		<title lang="zh">香港早晨[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103090000 +0800" stop="20251103100000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103100000 +0800" stop="20251103100500 +0800">
+		<title lang="zh">劲歌推介[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103100500 +0800" stop="20251103103500 +0800">
+		<title lang="zh">茶煲世家#37[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103103500 +0800" stop="20251103113500 +0800">
+		<title lang="zh">骊歌行#27[粤/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103113500 +0800" stop="20251103114000 +0800">
 		<title lang="zh">宣传易[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102120000 +0800" stop="20251102123000 +0800">
-		<title lang="zh">食好D 食平D[粤]</title>
+	<programme channel="翡翠台" start="20251103114000 +0800" stop="20251103121500 +0800">
+		<title lang="zh">交易现场[粤] 及 潮流生活志[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102123000 +0800" stop="20251102130000 +0800">
-		<title lang="zh">食好D 食平D[粤]</title>
+	<programme channel="翡翠台" start="20251103121500 +0800" stop="20251103125000 +0800">
+		<title lang="zh">阿爷厨房[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102130000 +0800" stop="20251102131500 +0800">
+	<programme channel="翡翠台" start="20251103125000 +0800" stop="20251103125500 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103125500 +0800" stop="20251103130000 +0800">
+		<title lang="zh">英雄召集：点解电竞系电竞[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103130000 +0800" stop="20251103132000 +0800">
 		<title lang="zh">午间新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102131500 +0800" stop="20251102134500 +0800">
-		<title lang="zh">宠物大联萌[粤]</title>
+	<programme channel="翡翠台" start="20251103132000 +0800" stop="20251103141000 +0800">
+		<title lang="zh">流行都市[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102134500 +0800" stop="20251102142000 +0800">
-		<title lang="zh">宠物大联萌[粤]</title>
+	<programme channel="翡翠台" start="20251103141000 +0800" stop="20251103144000 +0800">
+		<title lang="zh">生活100错[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102142000 +0800" stop="20251102145500 +0800">
-		<title lang="zh">英雄召集：超级电竞大派对[直播][粤]</title>
+	<programme channel="翡翠台" start="20251103144000 +0800" stop="20251103145000 +0800">
+		<title lang="zh">宣传易[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102145500 +0800" stop="20251102182500 +0800">
-		<title lang="zh">2025英雄联盟全球总决赛半决赛[直播][粤/普]</title>
+	<programme channel="翡翠台" start="20251103145000 +0800" stop="20251103155000 +0800">
+		<title lang="zh">王老虎抢亲#6[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102182500 +0800" stop="20251102183000 +0800">
-		<title lang="zh">好嘢港多啲[粤]</title>
+	<programme channel="翡翠台" start="20251103155000 +0800" stop="20251103162000 +0800">
+		<title lang="zh">交易现场[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102183000 +0800" stop="20251102185500 +0800">
+	<programme channel="翡翠台" start="20251103162000 +0800" stop="20251103165000 +0800">
+		<title lang="zh">忍者乱太郎[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103165000 +0800" stop="20251103172000 +0800">
+		<title lang="zh">Hands Up[粤] 及 成语动画廊[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103172000 +0800" stop="20251103175000 +0800">
+		<title lang="zh">多啦A梦[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103175000 +0800" stop="20251103180000 +0800">
+		<title lang="zh">财经新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103180000 +0800" stop="20251103182500 +0800">
+		<title lang="zh">今日有楼睇[粤] 及 潮流生活志[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103182500 +0800" stop="20251103183000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103183000 +0800" stop="20251103191500 +0800">
 		<title lang="zh">六点半新闻报道[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102185500 +0800" stop="20251102190000 +0800">
-		<title lang="zh">天气报告[粤]</title>
+	<programme channel="翡翠台" start="20251103191500 +0800" stop="20251103192500 +0800">
+		<title lang="zh">世界观[粤] 及 天气报告[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102190000 +0800" stop="20251102193000 +0800">
-		<title lang="zh">星期日档案[粤]</title>
+	<programme channel="翡翠台" start="20251103192500 +0800" stop="20251103193000 +0800">
+		<title lang="zh">有理说得清[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102193000 +0800" stop="20251102193500 +0800">
-		<title lang="zh">警声百二秒 III[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20251102193500 +0800" stop="20251102200000 +0800">
+	<programme channel="翡翠台" start="20251103193000 +0800" stop="20251103203000 +0800">
 		<title lang="zh">东张西望[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102200000 +0800" stop="20251102222000 +0800">
-		<title lang="zh">声秀决赛 终极声战[粤]</title>
+	<programme channel="翡翠台" start="20251103203000 +0800" stop="20251103213000 +0800">
+		<title lang="zh">爱．回家之开心速递#2676[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102222000 +0800" stop="20251102223000 +0800">
-		<title lang="zh">声秀 王者登场[粤]</title>
+	<programme channel="翡翠台" start="20251103213000 +0800" stop="20251103223000 +0800">
+		<title lang="zh">金式森林#16[粤][PG] 及 英雄召集：点解电竞系电竞[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102223000 +0800" stop="20251102230000 +0800">
-		<title lang="zh">美食新闻周报[粤]</title>
+	<programme channel="翡翠台" start="20251103223000 +0800" stop="20251103230000 +0800">
+		<title lang="zh">攻你上大学[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102230000 +0800" stop="20251102231500 +0800">
-		<title lang="zh">娱乐头条[粤]</title>
+	<programme channel="翡翠台" start="20251103230000 +0800" stop="20251103231500 +0800">
+		<title lang="zh">娱乐头条[粤] 及 环球新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102231500 +0800" stop="20251102233000 +0800">
+	<programme channel="翡翠台" start="20251103231500 +0800" stop="20251103234500 +0800">
 		<title lang="zh">晚间新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102233000 +0800" stop="20251102233500 +0800">
-		<title lang="zh">天气报告[粤]</title>
+	<programme channel="翡翠台" start="20251103234500 +0800" stop="20251103235000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20251102233500 +0800" stop="20251102235900 +0800">
-		<title lang="zh">新鲜人#7[粤][PG]</title>
+	<programme channel="翡翠台" start="20251103235000 +0800" stop="20251103235500 +0800">
+		<title lang="zh">天气报告[粤] 及 潮流生活志[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251103235500 +0800" stop="20251103235900 +0800">
+		<title lang="zh">使徒行者2#1[粤][PG]</title>
 	</programme>
 </tv>
