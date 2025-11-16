@@ -1,5 +1,59 @@
 <?xml version="1.0" ?>
-<tv date="20251115221050 +0800">
+<tv date="20251116101429 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251116004200 +0800" stop="20251116005200 +0800">
+		<title lang="zh">重播 全运回眸(8)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116005200 +0800" stop="20251116010200 +0800">
+		<title lang="zh">重播 全运回眸(9)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116010200 +0800" stop="20251116012800 +0800">
+		<title lang="zh">重播 行走十五运(1)(广州篇)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116012800 +0800" stop="20251116022000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会跳水项目精选(1)女团决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251116022000 +0800" stop="20251116031200 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛日本公开赛精选(1)男单半决赛 石宇奇vs小波波夫</title>
+	</programme>
+	<programme channel="广东体育" start="20251116031200 +0800" stop="20251116032400 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版</title>
+	</programme>
+	<programme channel="广东体育" start="20251116032400 +0800" stop="20251116041600 +0800">
+		<title lang="zh">重播 24-25CBA赛场第43轮 宁波町渥vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251116041600 +0800" stop="20251116050800 +0800">
+		<title lang="zh">重播 24-25CBA赛场第43轮 深圳马可波罗vs北京控股</title>
+	</programme>
+	<programme channel="广东体育" start="20251116050800 +0800" stop="20251116054600 +0800">
+		<title lang="zh">重播 2025中甲第28轮精编版 广东广州豹vs陕西联合</title>
+	</programme>
+	<programme channel="广东体育" start="20251116054600 +0800" stop="20251116055700 +0800">
+		<title lang="zh">重播 全运回眸(10)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116055700 +0800" stop="20251116061300 +0800">
+		<title lang="zh">重播 全运回眸(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116061300 +0800" stop="20251116071400 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球男子成年组半决赛 广东vs辽宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251116071400 +0800" stop="20251116075100 +0800">
+		<title lang="zh">重播 行走十五运(3)(惠州篇)(纯节目版)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116075100 +0800" stop="20251116085000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116085000 +0800" stop="20251116094000 +0800">
+		<title lang="zh">直播 湾区竞技场:中华人民共和国第十五届运动会第7比赛日(09:00 游泳预赛、11:00-11:40直播 第72届澳门格兰披治大赛车国际汽联TCR世界巡回赛第二回合、12:30-13:30直播 乒乓球成年组男子单打铜牌赛、决赛、15:00水球女子小组赛A组 上海vs广东、16:30 射箭女子反曲弓个人铜牌赛、决赛，17:30 直播 击剑 男子花剑个人半决、决赛，17:30击剑、19:00 游泳半决赛、决赛、21:00 乒乓球成年组 女子单打决赛等)(含全运捷报)</title>
+	</programme>
+	<programme channel="广东体育" start="20251116220000 +0800" stop="20251116223500 +0800">
+		<title lang="zh">直播 体育世界之全运进行时</title>
+	</programme>
+	<programme channel="广东体育" start="20251116223500 +0800" stop="20251116232500 +0800">
+		<title lang="zh">首播 荣耀时刻:第十五届全国运动会精选</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
