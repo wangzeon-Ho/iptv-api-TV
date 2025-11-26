@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-26 18:17:37,http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv
+2025-11-27 06:14:44,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 
 ☘️广东频道,#genre#
-广东体育,http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-翡翠台,http://111.221.137.155:44330/tsfile/live/1021_1.m3u8?key=txiptv
