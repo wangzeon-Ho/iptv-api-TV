@@ -1,5 +1,83 @@
 <?xml version="1.0" ?>
-<tv date="20251125221437 +0800">
+<tv date="20251126101737 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251126001600 +0800" stop="20251126004200 +0800">
+		<title lang="zh">首播 2025中甲第30轮精编版 广东广州豹vs南通支云</title>
+	</programme>
+	<programme channel="广东体育" start="20251126004200 +0800" stop="20251126013400 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会跳水项目精选(5)女子1米跳板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126013400 +0800" stop="20251126022600 +0800">
+		<title lang="zh">重播 24-25CBA赛场第37轮 山西汾酒vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251126022600 +0800" stop="20251126025200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 拳击女子50公斤决赛，男子57公斤决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126025200 +0800" stop="20251126034400 +0800">
+		<title lang="zh">重播 全运回眸(40)十二运乒乓球男单决赛 马龙(北京)vs樊振东(解放军)</title>
+	</programme>
+	<programme channel="广东体育" start="20251126034400 +0800" stop="20251126041000 +0800">
+		<title lang="zh">重播 全运回眸(25)十三运男子25米手枪速射</title>
+	</programme>
+	<programme channel="广东体育" start="20251126041000 +0800" stop="20251126054300 +0800">
+		<title lang="zh">重播 2025世界F1第18站新加坡大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126054300 +0800" stop="20251126063700 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼公开赛精选 女单第一轮 波恩皮查vs陈雨菲 ；杨佳敏vs韩悦</title>
+	</programme>
+	<programme channel="广东体育" start="20251126063700 +0800" stop="20251126065400 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126065400 +0800" stop="20251126083100 +0800">
+		<title lang="zh">重播 第十五届全国运动会蹦床项目精选(1)男子团体决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126083100 +0800" stop="20251126094000 +0800">
+		<title lang="zh">重播 2025中甲第30轮精编版 广东广州豹vs南通支云</title>
+	</programme>
+	<programme channel="广东体育" start="20251126094000 +0800" stop="20251126105000 +0800">
+		<title lang="zh">重播 德甲精选(252611)</title>
+	</programme>
+	<programme channel="广东体育" start="20251126105000 +0800" stop="20251126120000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会自由式小轮车精选(2)女子决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126120000 +0800" stop="20251126130700 +0800">
+		<title lang="zh">重播 出奇智胜(775)</title>
+	</programme>
+	<programme channel="广东体育" start="20251126130700 +0800" stop="20251126140900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会跳水项目精选(1)女团决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126140900 +0800" stop="20251126154200 +0800">
+		<title lang="zh">重播 第十五届全国运动会体操青年组精选(3)男子个人全能决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126154200 +0800" stop="20251126162000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251126162000 +0800" stop="20251126172700 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 男子篮球小组赛 浙江vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251126172700 +0800" stop="20251126190000 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛丹麦公开赛精选(1) 男单决赛 石宇奇vs乔纳坦</title>
+	</programme>
+	<programme channel="广东体育" start="20251126190000 +0800" stop="20251126192700 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251126192700 +0800" stop="20251126203000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会跳水项目精选(2)男团决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251126203000 +0800" stop="20251126213100 +0800">
+		<title lang="zh">首播 2025国际马联浪琴国家联赛(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20251126213100 +0800" stop="20251126215300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米跳板</title>
+	</programme>
+	<programme channel="广东体育" start="20251126215300 +0800" stop="20251126232800 +0800">
+		<title lang="zh">首播 出奇智胜(776)</title>
+	</programme>
+	<programme channel="广东体育" start="20251126232800 +0800" stop="20251126235900 +0800">
+		<title lang="zh">首播 25-26德甲第10轮精编版 弗赖堡vs圣保利</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
