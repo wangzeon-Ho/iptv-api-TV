@@ -1,5 +1,83 @@
 <?xml version="1.0" ?>
-<tv date="20251127221407 +0800">
+<tv date="20251128101648 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251128001400 +0800" stop="20251128010600 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球女子成年组1/4决赛 上海vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251128010600 +0800" stop="20251128013200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 拳击女子50公斤决赛，男子57公斤决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251128013200 +0800" stop="20251128030700 +0800">
+		<title lang="zh">重播 2025世界F1第21站圣保罗大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251128030700 +0800" stop="20251128035900 +0800">
+		<title lang="zh">重播 第十五届全国运动会女子手球项目精选(1)半决赛 安徽vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251128035900 +0800" stop="20251128042900 +0800">
+		<title lang="zh">重播 德甲精选(252611)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128042900 +0800" stop="20251128051400 +0800">
+		<title lang="zh">重播 全运回眸(39)十二运羽毛球男单决赛 杜鹏宇(北京)vs林丹(解放军)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128051400 +0800" stop="20251128054300 +0800">
+		<title lang="zh">重播 全运回眸(62)十二运体操单项决赛(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128054300 +0800" stop="20251128063700 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼公开赛精选 女双决赛 刘圣书/谭宁vs陈康乐/蒂娜</title>
+	</programme>
+	<programme channel="广东体育" start="20251128063700 +0800" stop="20251128065000 +0800">
+		<title lang="zh">重播 全运回眸(10)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128065000 +0800" stop="20251128082700 +0800">
+		<title lang="zh">重播 2025国际马联浪琴国家联赛(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128082700 +0800" stop="20251128094700 +0800">
+		<title lang="zh">重播 德甲精选(252611)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128094700 +0800" stop="20251128105200 +0800">
+		<title lang="zh">重播 25-26德甲第10轮精编版 弗赖堡vs圣保利</title>
+	</programme>
+	<programme channel="广东体育" start="20251128105200 +0800" stop="20251128120000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 男足U20决赛 广东vs湖北</title>
+	</programme>
+	<programme channel="广东体育" start="20251128120000 +0800" stop="20251128130700 +0800">
+		<title lang="zh">重播 出奇智胜(777)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128130700 +0800" stop="20251128140900 +0800">
+		<title lang="zh">重播 2025国际马联浪琴国家联赛(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128140900 +0800" stop="20251128154200 +0800">
+		<title lang="zh">重播 24-25CBA赛场季后赛12进8第二场 上海久事vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251128154200 +0800" stop="20251128162000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251128162000 +0800" stop="20251128172700 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 射箭 女子反曲弓个人铜牌、金牌赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251128172700 +0800" stop="20251128190000 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛中国香港公开赛 男双决赛 兰基雷迪/谢提vs梁伟铿/王昶</title>
+	</programme>
+	<programme channel="广东体育" start="20251128190000 +0800" stop="20251128192200 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251128192200 +0800" stop="20251128202300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球 男子成年组半决赛 广东vs辽宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251128202300 +0800" stop="20251128212200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 跳水男子3米跳板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251128212200 +0800" stop="20251128215300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 男足U20决赛 广东vs湖北</title>
+	</programme>
+	<programme channel="广东体育" start="20251128215300 +0800" stop="20251128233100 +0800">
+		<title lang="zh">首播 出奇智胜(778)</title>
+	</programme>
+	<programme channel="广东体育" start="20251128233100 +0800" stop="20251128235900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 拳击女子50公斤决赛，男子57公斤决赛</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
