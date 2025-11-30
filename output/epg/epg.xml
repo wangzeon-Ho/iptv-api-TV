@@ -1,5 +1,86 @@
 <?xml version="1.0" ?>
-<tv date="20251129221343 +0800">
+<tv date="20251130101454 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251130003400 +0800" stop="20251130010100 +0800">
+		<title lang="zh">重播 行走十五运(5)(云浮肇庆篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130010100 +0800" stop="20251130011100 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130011100 +0800" stop="20251130012500 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130012500 +0800" stop="20251130033000 +0800">
+		<title lang="zh">直播 2025-2026德国甲级联赛第12轮(25:30勒沃库森vs多特蒙德)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130033000 +0800" stop="20251130042600 +0800">
+		<title lang="zh">重播 第十五届全国运动会跆拳道项目精选 男子58公斤级半决赛、决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130042600 +0800" stop="20251130043800 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130043800 +0800" stop="20251130044800 +0800">
+		<title lang="zh">重播 全运回眸(6)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130044800 +0800" stop="20251130054300 +0800">
+		<title lang="zh">重播 全运回眸(14)十三运羽毛球赛事精选:男单决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130054300 +0800" stop="20251130063000 +0800">
+		<title lang="zh">重播 全运回眸(43)十二运乒乓球混双决赛 北京vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251130063000 +0800" stop="20251130065500 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130065500 +0800" stop="20251130083400 +0800">
+		<title lang="zh">重播 第十五届全国运动会跆拳道项目精选 女子49公斤级铜牌赛、决赛，男子80公斤级铜牌赛、决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130083400 +0800" stop="20251130094700 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 男足U20决赛 广东vs湖北</title>
+	</programme>
+	<programme channel="广东体育" start="20251130094700 +0800" stop="20251130105100 +0800">
+		<title lang="zh">重播 珠江少年派(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130105100 +0800" stop="20251130120000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球男单1/16决赛 樊振东vs周雨</title>
+	</programme>
+	<programme channel="广东体育" start="20251130120000 +0800" stop="20251130130700 +0800">
+		<title lang="zh">重播 出奇智胜(777)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130130700 +0800" stop="20251130140900 +0800">
+		<title lang="zh">重播 2025国际马联浪琴国家联赛(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130140900 +0800" stop="20251130154300 +0800">
+		<title lang="zh">重播(好视力广告版)24-25CBA赛场第41轮 浙江稠州金租vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251130154300 +0800" stop="20251130162700 +0800">
+		<title lang="zh">重播(百年糊涂广告版)荣耀时刻:第十五届全国运动会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251130162700 +0800" stop="20251130170800 +0800">
+		<title lang="zh">重播 全运回眸(10)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130170800 +0800" stop="20251130175300 +0800">
+		<title lang="zh">首播 大家小家(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130175300 +0800" stop="20251130190000 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛中国香港公开赛 男双半决赛-梁伟铿/王昶vs李芳至/李芳任</title>
+	</programme>
+	<programme channel="广东体育" start="20251130190000 +0800" stop="20251130192200 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251130192200 +0800" stop="20251130215300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251130215300 +0800" stop="20251130233000 +0800">
+		<title lang="zh">重播 出奇智胜(778)</title>
+	</programme>
+	<programme channel="广东体育" start="20251130233000 +0800" stop="20251130235000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251130235000 +0800" stop="20251130235900 +0800">
+		<title lang="zh">直播 2025世界一级方程式锦标赛第23站卡塔尔大奖赛(24:00正赛)</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
