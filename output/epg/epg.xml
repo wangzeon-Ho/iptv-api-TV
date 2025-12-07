@@ -1,5 +1,89 @@
 <?xml version="1.0" ?>
-<tv date="20251206221346 +0800">
+<tv date="20251207101350 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251207002700 +0800" stop="20251207004200 +0800">
+		<title lang="zh">重播 湾区会客厅(6)</title>
+	</programme>
+	<programme channel="广东体育" start="20251207004200 +0800" stop="20251207013400 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球女团决赛 河北vs山东</title>
+	</programme>
+	<programme channel="广东体育" start="20251207013400 +0800" stop="20251207014600 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207014600 +0800" stop="20251207024000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球女子成年组1/4决赛 上海vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251207024000 +0800" stop="20251207033200 +0800">
+		<title lang="zh">重播 24-25CBA赛场第46轮 四川丰谷酒业vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251207033200 +0800" stop="20251207042400 +0800">
+		<title lang="zh">重播 24-25CBA赛场第46轮 上海久事vs深圳马可波罗</title>
+	</programme>
+	<programme channel="广东体育" start="20251207042400 +0800" stop="20251207045300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 拳击女子50公斤决赛，男子57公斤决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207045300 +0800" stop="20251207051900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 跳水 女子三米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207051900 +0800" stop="20251207054300 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207054300 +0800" stop="20251207062500 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印度公开赛精选 女双1/4决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207062500 +0800" stop="20251207064800 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207064800 +0800" stop="20251207082800 +0800">
+		<title lang="zh">重播 第十五届全国运动会射击项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251207082800 +0800" stop="20251207094000 +0800">
+		<title lang="zh">重播 25-26德甲第10轮精编版 弗赖堡vs圣保利</title>
+	</programme>
+	<programme channel="广东体育" start="20251207094000 +0800" stop="20251207103700 +0800">
+		<title lang="zh">重播 珠江少年派(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20251207103700 +0800" stop="20251207105400 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207105400 +0800" stop="20251207120000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 拳击女子50公斤决赛，男子57公斤决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207120000 +0800" stop="20251207142100 +0800">
+		<title lang="zh">实况延播 2025-2026国际汽联电动方程式锦标赛第1站圣保罗大奖赛排位赛、正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207142100 +0800" stop="20251207155500 +0800">
+		<title lang="zh">重播 24-25CBA赛场第45轮 广东东阳光vs九台农商银行</title>
+	</programme>
+	<programme channel="广东体育" start="20251207155500 +0800" stop="20251207163200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 滑板 女子碗池赛决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207163200 +0800" stop="20251207173700 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会自由式小轮车精选 男子决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207173700 +0800" stop="20251207190000 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛中国香港公开赛 混双决赛 郭新娃/陈芳卉vs冯彦哲/黄东萍</title>
+	</programme>
+	<programme channel="广东体育" start="20251207190000 +0800" stop="20251207192500 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251207192500 +0800" stop="20251207202500 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会 游泳多项</title>
+	</programme>
+	<programme channel="广东体育" start="20251207202500 +0800" stop="20251207204500 +0800">
+		<title lang="zh">首播 湾区会客厅(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20251207204500 +0800" stop="20251207232200 +0800">
+		<title lang="zh">直播 2025世界一级方程式锦标赛第24站阿布扎比大奖赛(21:00正赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251207232200 +0800" stop="20251207234000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251207234000 +0800" stop="20251207235900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会自由式小轮车精选 女子决赛</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
