@@ -1,5 +1,80 @@
 <?xml version="1.0" ?>
-<tv date="20251209221542 +0800">
+<tv date="20251210101802 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251210002100 +0800" stop="20251210005100 +0800">
+		<title lang="zh">首播 德甲精选(252613)</title>
+	</programme>
+	<programme channel="广东体育" start="20251210005100 +0800" stop="20251210014300 +0800">
+		<title lang="zh">首播 2026澳网外卡赛精选 男双决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251210014300 +0800" stop="20251210015600 +0800">
+		<title lang="zh">重播(改)全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251210015600 +0800" stop="20251210024800 +0800">
+		<title lang="zh">重播 第十五届全国运动会射击项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251210024800 +0800" stop="20251210041800 +0800">
+		<title lang="zh">重播 2025世界F1第20站墨西哥大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251210041800 +0800" stop="20251210044800 +0800">
+		<title lang="zh">重播 德甲精选(252612)</title>
+	</programme>
+	<programme channel="广东体育" start="20251210044800 +0800" stop="20251210054400 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球 男子成年组半决赛 广东vs辽宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251210054400 +0800" stop="20251210064700 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛北极公开赛精选 混双决赛 蒋振邦/魏雅欣vs冯彦哲/黄东萍</title>
+	</programme>
+	<programme channel="广东体育" start="20251210064700 +0800" stop="20251210082500 +0800">
+		<title lang="zh">重播 第十五届全国运动会跆拳道项目精选 男子80公斤以上级铜牌赛、决赛，67公斤以上级决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251210082500 +0800" stop="20251210094500 +0800">
+		<title lang="zh">重播 劲速天地(202542)</title>
+	</programme>
+	<programme channel="广东体育" start="20251210094500 +0800" stop="20251210105400 +0800">
+		<title lang="zh">重播 德甲精选(252613)</title>
+	</programme>
+	<programme channel="广东体育" start="20251210105400 +0800" stop="20251210120000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球男单1/16决赛 樊振东vs周雨</title>
+	</programme>
+	<programme channel="广东体育" start="20251210120000 +0800" stop="20251210131300 +0800">
+		<title lang="zh">首播 2025残特奥会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251210131300 +0800" stop="20251210135600 +0800">
+		<title lang="zh">重播(好视力广告版)羽乐无限:2025全英羽毛球公开赛精选(8) 女双半决赛 松山奈未/志田千阳vs刘圣书/谭宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251210135600 +0800" stop="20251210145500 +0800">
+		<title lang="zh">重播(百年糊涂广告版)荣耀时刻:第十五届全国运动会精选 滑板 女子碗池赛决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251210145500 +0800" stop="20251210162800 +0800">
+		<title lang="zh">直播 全国第十二届残运会暨第九届特奥会第2比赛日(15:00五人制轮椅篮球 女子A组 山东vs广东)</title>
+	</programme>
+	<programme channel="广东体育" start="20251210162800 +0800" stop="20251210173500 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251210173500 +0800" stop="20251210190000 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛中国香港公开赛 混双决赛 郭新娃/陈芳卉vs冯彦哲/黄东萍</title>
+	</programme>
+	<programme channel="广东体育" start="20251210190000 +0800" stop="20251210192700 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251210192700 +0800" stop="20251210202800 +0800">
+		<title lang="zh">首播 2025残特奥会精选 坐式排球 男子小组赛 四川vs福建</title>
+	</programme>
+	<programme channel="广东体育" start="20251210202800 +0800" stop="20251210212800 +0800">
+		<title lang="zh">重播 第二届CBA俱乐部杯D组 龙狮vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251210212800 +0800" stop="20251210215300 +0800">
+		<title lang="zh">首播 十五运的湾区答卷</title>
+	</programme>
+	<programme channel="广东体育" start="20251210215300 +0800" stop="20251210232700 +0800">
+		<title lang="zh">首播 第二届CBA俱乐部杯D组 山西vs龙狮</title>
+	</programme>
+	<programme channel="广东体育" start="20251210232700 +0800" stop="20251210235900 +0800">
+		<title lang="zh">重播 2026澳网外卡赛精选 男单半决赛 布云朝克特vs茹卡耶夫</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
