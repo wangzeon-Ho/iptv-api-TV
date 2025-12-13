@@ -1,5 +1,83 @@
 <?xml version="1.0" ?>
-<tv date="20251212221442 +0800">
+<tv date="20251213101444 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251213003100 +0800" stop="20251213020100 +0800">
+		<title lang="zh">首播 2025世界F1第24站阿布扎比大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213020100 +0800" stop="20251213025100 +0800">
+		<title lang="zh">重播 第十五届全国运动会蹦床项目精选 男子团体决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213025100 +0800" stop="20251213034300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 跳水男子双人十米跳台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213034300 +0800" stop="20251213043500 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 篮球女子成年组1/4决赛 上海vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251213043500 +0800" stop="20251213052700 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球混双决赛 江苏vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251213052700 +0800" stop="20251213054100 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213054100 +0800" stop="20251213063300 +0800">
+		<title lang="zh">重播 第十五届全国运动会蹦床项目精选 女子个人、男子个人决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213063300 +0800" stop="20251213081000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会跳水项目精选 女子1米跳板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213081000 +0800" stop="20251213091300 +0800">
+		<title lang="zh">重播 25-26德甲第13轮精编版 多特蒙德vs霍芬海姆</title>
+	</programme>
+	<programme channel="广东体育" start="20251213091300 +0800" stop="20251213092600 +0800">
+		<title lang="zh">重播 全运回眸(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213092600 +0800" stop="20251213100600 +0800">
+		<title lang="zh">重播 全运回眸(8)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213100600 +0800" stop="20251213114400 +0800">
+		<title lang="zh">重播 24-25CBA赛场第46轮 四川丰谷酒业vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251213114400 +0800" stop="20251213124600 +0800">
+		<title lang="zh">首播 2025残特奥会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251213124600 +0800" stop="20251213132500 +0800">
+		<title lang="zh">首播 一起出发吧(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213132500 +0800" stop="20251213152500 +0800">
+		<title lang="zh">直播 全国第十二届残运会暨第九届特奥会第5比赛日(13:30五人制轮椅篮球男子组1/4决赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213152500 +0800" stop="20251213153900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选版 跳水 男子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213153900 +0800" stop="20251213161800 +0800">
+		<title lang="zh">重播(百年糊涂广告版)荣耀时刻:第十五届全国运动会精选 跳水 女子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213161800 +0800" stop="20251213163300 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213163300 +0800" stop="20251213173800 +0800">
+		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选 女双半决赛 松山奈未/志田千阳vs刘圣书/谭宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251213173800 +0800" stop="20251213181100 +0800">
+		<title lang="zh">首播 珠江少年派(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213181100 +0800" stop="20251213190000 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末三分球、技巧赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251213190000 +0800" stop="20251213192100 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251213192100 +0800" stop="20251213212500 +0800">
+		<title lang="zh">直播 2025-2026CBA中国男子篮球职业联赛常规赛第1轮(19:35深圳马可波罗vs青岛崂山啤酒)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213212500 +0800" stop="20251213233400 +0800">
+		<title lang="zh">实况延播 2025-2026CBA中国男子篮球职业联赛常规赛第1轮(19:35四川丰谷酒业vs广州朗肽海本)</title>
+	</programme>
+	<programme channel="广东体育" start="20251213233400 +0800" stop="20251213235900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球混双决赛 江苏vs广东</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
