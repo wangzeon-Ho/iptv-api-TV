@@ -1,5 +1,95 @@
 <?xml version="1.0" ?>
-<tv date="20251214221355 +0800">
+<tv date="20251215101957 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20251215004500 +0800" stop="20251215013700 +0800">
+		<title lang="zh">重播 第二届CBA俱乐部杯D组 广东vs山西</title>
+	</programme>
+	<programme channel="广东体育" start="20251215013700 +0800" stop="20251215020300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会自由式小轮车精选(1)男子决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251215020300 +0800" stop="20251215023800 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会自由式小轮车精选(2)女子决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251215023800 +0800" stop="20251215033000 +0800">
+		<title lang="zh">重播 2026澳网外卡赛精选(1)男单半决赛 布云朝克特vs茹卡耶夫</title>
+	</programme>
+	<programme channel="广东体育" start="20251215033000 +0800" stop="20251215042800 +0800">
+		<title lang="zh">重播 2026澳网外卡赛精选(2)男单决赛 布云朝克特vs桑提兰</title>
+	</programme>
+	<programme channel="广东体育" start="20251215042800 +0800" stop="20251215043800 +0800">
+		<title lang="zh">重播 全运回眸(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20251215043800 +0800" stop="20251215044800 +0800">
+		<title lang="zh">重播 全运回眸(6)</title>
+	</programme>
+	<programme channel="广东体育" start="20251215044800 +0800" stop="20251215054300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 跳水男子双人三米跳板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251215054300 +0800" stop="20251215064300 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球女团决赛 河北vs山东</title>
+	</programme>
+	<programme channel="广东体育" start="20251215064300 +0800" stop="20251215082100 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 游泳多项</title>
+	</programme>
+	<programme channel="广东体育" start="20251215082100 +0800" stop="20251215093300 +0800">
+		<title lang="zh">重播 25-26德甲第10轮精编版 弗赖堡vs圣保利</title>
+	</programme>
+	<programme channel="广东体育" start="20251215093300 +0800" stop="20251215100300 +0800">
+		<title lang="zh">重播 第十五届全国运动会足球项目女子18岁以下组小组赛 广东vs浙江 26&amp;#039;6.17节目------------- 中插广告1组4’</title>
+	</programme>
+	<programme channel="广东体育" start="20251215100300 +0800" stop="20251215103300 +0800">
+		<title lang="zh">专题广告 30&amp;#039;</title>
+	</programme>
+	<programme channel="广东体育" start="20251215103300 +0800" stop="20251215103500 +0800">
+		<title lang="zh">首播 体育频道宣传片(5)2&amp;#039;</title>
+	</programme>
+	<programme channel="广东体育" start="20251215103500 +0800" stop="20251215103800 +0800">
+		<title lang="zh">广告3&amp;#039;</title>
+	</programme>
+	<programme channel="广东体育" start="20251215103800 +0800" stop="20251215114200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 射箭 女子反曲弓个人铜牌、金牌赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251215114200 +0800" stop="20251215125400 +0800">
+		<title lang="zh">重播 2025残特奥会精选</title>
+	</programme>
+	<programme channel="广东体育" start="20251215125400 +0800" stop="20251215132900 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 男足U20决赛 广东vs湖北</title>
+	</programme>
+	<programme channel="广东体育" start="20251215132900 +0800" stop="20251215142500 +0800">
+		<title lang="zh">重播 第十五届全国运动会体操青年组精选 女子团体决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20251215142500 +0800" stop="20251215152500 +0800">
+		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选 女双半决赛 松山奈未/志田千阳vs刘圣书/谭宁</title>
+	</programme>
+	<programme channel="广东体育" start="20251215152500 +0800" stop="20251215174300 +0800">
+		<title lang="zh">直播 全国第十二届残运会暨第九届特奥会第7比赛日(15:30五人制轮椅篮球 男子组决赛)</title>
+	</programme>
+	<programme channel="广东体育" start="20251215174300 +0800" stop="20251215175700 +0800">
+		<title lang="zh">重播 全运回眸(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20251215175700 +0800" stop="20251215190000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 男子篮球小组赛 浙江vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20251215190000 +0800" stop="20251215192600 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20251215192600 +0800" stop="20251215203000 +0800">
+		<title lang="zh">重播 第二届CBA俱乐部杯D组 合肥狂风vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20251215203000 +0800" stop="20251215213100 +0800">
+		<title lang="zh">首播 25-26CBA赛场第1轮 深圳马可波罗vs青岛崂山啤酒</title>
+	</programme>
+	<programme channel="广东体育" start="20251215213100 +0800" stop="20251215215300 +0800">
+		<title lang="zh">首播 湾区会客厅(12)</title>
+	</programme>
+	<programme channel="广东体育" start="20251215215300 +0800" stop="20251215232800 +0800">
+		<title lang="zh">首播 出奇智胜(779)</title>
+	</programme>
+	<programme channel="广东体育" start="20251215232800 +0800" stop="20251215235900 +0800">
+		<title lang="zh">首播 25-26CBA赛场第1轮 广东东阳光vs南京天之蓝</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
