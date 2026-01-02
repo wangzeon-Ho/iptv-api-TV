@@ -1,5 +1,74 @@
 <?xml version="1.0" ?>
-<tv date="20260101221459 +0800">
+<tv date="20260102101620 +0800">
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20260102000100 +0800" stop="20260102002600 +0800">
+		<title lang="zh">重播 全运回眸(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20260102002600 +0800" stop="20260102011800 +0800">
+		<title lang="zh">首播 25-26CBA赛场第9轮 深圳马可波罗vs北京控股</title>
+	</programme>
+	<programme channel="广东体育" start="20260102011800 +0800" stop="20260102021000 +0800">
+		<title lang="zh">首播 25-26CBA赛场第7轮 广州朗肽海本vs长白山恩都里</title>
+	</programme>
+	<programme channel="广东体育" start="20260102021000 +0800" stop="20260102031000 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 田径多项</title>
+	</programme>
+	<programme channel="广东体育" start="20260102031000 +0800" stop="20260102044000 +0800">
+		<title lang="zh">重播 2025世界F1第18站新加坡大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260102044000 +0800" stop="20260102053200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 乒乓球女团决赛 河北vs山东</title>
+	</programme>
+	<programme channel="广东体育" start="20260102053200 +0800" stop="20260102054300 +0800">
+		<title lang="zh">重播 全运回眸(27)十三运游泳项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20260102054300 +0800" stop="20260102063000 +0800">
+		<title lang="zh">重播 第十五届全国运动会女子手球项目精选 决赛 广东vs江苏</title>
+	</programme>
+	<programme channel="广东体育" start="20260102063000 +0800" stop="20260102080200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 羽毛球女双金牌 郑雨/张殊贤vs黄东萍/谭宁</title>
+	</programme>
+	<programme channel="广东体育" start="20260102080200 +0800" stop="20260102083900 +0800">
+		<title lang="zh">重播 25-26德甲第12轮精编版 勒沃库森vs多特蒙德</title>
+	</programme>
+	<programme channel="广东体育" start="20260102083900 +0800" stop="20260102095100 +0800">
+		<title lang="zh">重播 残特奥会纪录片怒放(下)与爱同行</title>
+	</programme>
+	<programme channel="广东体育" start="20260102095100 +0800" stop="20260102105500 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会精选 射箭 女子反曲弓个人铜牌、金牌赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260102105500 +0800" stop="20260102120000 +0800">
+		<title lang="zh">重播 残特奥会纪录片怒放(上)向阳而生</title>
+	</programme>
+	<programme channel="广东体育" start="20260102120000 +0800" stop="20260102130900 +0800">
+		<title lang="zh">重播 出奇智胜(773)</title>
+	</programme>
+	<programme channel="广东体育" start="20260102130900 +0800" stop="20260102141200 +0800">
+		<title lang="zh">重播 25-26CBA赛场第5轮 广州朗肽海本vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20260102141200 +0800" stop="20260102154500 +0800">
+		<title lang="zh">重播 25-26CBA赛场第5轮 山东高速vs深圳马可波罗</title>
+	</programme>
+	<programme channel="广东体育" start="20260102154500 +0800" stop="20260102162200 +0800">
+		<title lang="zh">重播 荣耀时刻:第十五届全国运动会自由式小轮车精选 男子决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260102162200 +0800" stop="20260102172700 +0800">
+		<title lang="zh">重播 残特奥会纪录片怒放(下)与爱同行</title>
+	</programme>
+	<programme channel="广东体育" start="20260102172700 +0800" stop="20260102190000 +0800">
+		<title lang="zh">首播 羽乐无限:2025年世界羽联年终总决赛精选 小组赛 男单 李诗沣vs石宇奇</title>
+	</programme>
+	<programme channel="广东体育" start="20260102190000 +0800" stop="20260102215300 +0800">
+		<title lang="zh">直播 2025-2026CBA中国男子篮球职业联赛常规赛第9轮(19:35山西汾酒vs广州朗肽海本)</title>
+	</programme>
+	<programme channel="广东体育" start="20260102215300 +0800" stop="20260102232700 +0800">
+		<title lang="zh">重播 出奇智胜(774)</title>
+	</programme>
+	<programme channel="广东体育" start="20260102232700 +0800" stop="20260102235900 +0800">
+		<title lang="zh">首播 25-26CBA赛场第9轮 北京北汽vs广东东阳光</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
