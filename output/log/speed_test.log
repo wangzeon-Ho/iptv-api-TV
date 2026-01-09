@@ -1,7 +1,2 @@
-Name: 翡翠台, URL: http://74.91.26.218:82/live/jade.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 204 ms, Speed: 17.29 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 14 ms, Speed: 21.57 M/s, Resolution: 1920x1080
-Name: 广东体育, URL: https://www.wmviv.com/iptv/bc2t.php?id=gdty, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东体育, URL: rtsp://183.59.156.166/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil?rrsip=125.88.104.40, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10007 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东体育, URL: http://27.41.245.32:801/hls/204/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-汕头, ISP: 联通, Date: None, Delay: 10842 ms, Speed: 0.43 M/s, Resolution: 1920x1080
-Name: 广东体育, URL: http://183.57.249.119:8183/tsfile/live/1000_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-东莞, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 广东体育, URL: http://143.14.105.196:20007/live/gdty/stream.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://74.91.26.218:82/live/jade.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 186 ms, Speed: 20.06 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 11 ms, Speed: 28.27 M/s, Resolution: 1920x1080
