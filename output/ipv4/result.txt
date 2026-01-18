@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-01-18 06:14:42,https://live.catvod.com/iptv.php?id=gdty01
+2026-01-18 18:15:56,https://live.catvod.com/iptv.php?id=gdty01
 
 ☘️广东频道,#genre#
 广东体育,https://live.catvod.com/iptv.php?id=gdty01
 
 🌊港·澳·台,#genre#
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
+翡翠台,http://23.128.116.71:5589/live.php?id=jade_xue&h=23.128.116.71&p=22364&token=1768700622.8980c46a1b7f4e6a2d1a0d23690cbdd4fad8dd47cb8698b58c4cce66f07413c5
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
