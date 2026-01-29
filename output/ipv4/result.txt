@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-29 18:30:55,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-01-30 06:21:51,http://74.91.26.218:82/live/jade.m3u8
 
 ☘️广东频道,#genre#
-广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
