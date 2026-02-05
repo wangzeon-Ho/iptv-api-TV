@@ -1,7 +1,7 @@
 Name: 广东体育, URL: https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8, From: local, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东体育, URL: http://cdn2.163189.xyz/live/gdty/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: http://php.jdshipin.com/PLTV/iptv.php?id=gdty, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8, From: None, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 广东体育, URL: http://cdn2.132.us.kg/live/gdty/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://hls-gateway.vpstv.net/streams/476954.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: http://bxtv.3a.ink/api.php?id=gdty, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -35,7 +35,7 @@ Name: 翡翠台, URL: http://r.jdshipin.com/GeWKr, From: subscribe, IPv_Type: ip
 Name: 翡翠台, URL: http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://hls.168.us.kg/u/81/master.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-10.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-10.m3u8, From: None, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://o11.163189.xyz/stream/tvb/fct/, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://74.91.26.218:82/live/jade.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 4434 ms, Speed: 0.74 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://74.91.26.218:82/live/jade.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 459 ms, Speed: 6.59 M/s, Resolution: 1920x1080
