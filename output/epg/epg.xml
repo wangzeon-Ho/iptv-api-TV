@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260222221826 +0800">
+<tv date="20260223223455 +0800">
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -147,148 +147,154 @@
 	<channel id="广东体育">
 		<display-name lang="zh">广东体育</display-name>
 	</channel>
-	<programme channel="广东体育" start="20260223000000 +0800" stop="20260223003300 +0800">
+	<programme channel="广东体育" start="20260224000000 +0800" stop="20260224002200 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="广东体育" start="20260223003300 +0800" stop="20260223003500 +0800">
-		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	<programme channel="广东体育" start="20260224002200 +0800" stop="20260224011400 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选篮球女子成年组决赛广东vs四川</title>
 	</programme>
-	<programme channel="广东体育" start="20260223003500 +0800" stop="20260223003700 +0800">
-		<title lang="zh">重播广东荣耀(8)十五运体操全能冠军柯沁沁</title>
-	</programme>
-	<programme channel="广东体育" start="20260223003700 +0800" stop="20260223012900 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第16轮辽宁本钢vs深圳马可波罗</title>
-	</programme>
-	<programme channel="广东体育" start="20260223012900 +0800" stop="20260223014400 +0800">
-		<title lang="zh">重播逐梦十五运(2)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223014400 +0800" stop="20260223032000 +0800">
-		<title lang="zh">重播2026澳大利亚网球公开赛精选女双决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260223032000 +0800" stop="20260223041200 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选跳水男子双人十米跳台决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260223041200 +0800" stop="20260223050400 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选跳水男子3米跳板决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260223050400 +0800" stop="20260223054300 +0800">
-		<title lang="zh">重播德甲精选(252621)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223054300 +0800" stop="20260223055800 +0800">
-		<title lang="zh">重播逐梦十五运(2)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223055800 +0800" stop="20260223065000 +0800">
-		<title lang="zh">重播第十五届全国运动会跆拳道项目精选(2)男子80公斤以上级铜牌赛决赛67公斤以上级决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260223065000 +0800" stop="20260223070400 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选版跳水男子双人3米板决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20260223070400 +0800" stop="20260223074000 +0800">
-		<title lang="zh">重播德甲精选(252618)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223074000 +0800" stop="20260223074200 +0800">
-		<title lang="zh">重播广东荣耀(3)十五运花样游泳女子双人项目金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260223074200 +0800" stop="20260223074400 +0800">
-		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
-	</programme>
-	<programme channel="广东体育" start="20260223074400 +0800" stop="20260223074900 +0800">
-		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260223074900 +0800" stop="20260223084400 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选青年组精选女子个人全能高低杠平衡木跳马全能</title>
-	</programme>
-	<programme channel="广东体育" start="20260223084400 +0800" stop="20260223084600 +0800">
-		<title lang="zh">重播广东荣耀(8)十五运体操全能冠军柯沁沁</title>
-	</programme>
-	<programme channel="广东体育" start="20260223084600 +0800" stop="20260223084800 +0800">
-		<title lang="zh">重播广东荣耀(9)十五运田径女子100米栏刘景扬</title>
-	</programme>
-	<programme channel="广东体育" start="20260223084800 +0800" stop="20260223085000 +0800">
-		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
-	</programme>
-	<programme channel="广东体育" start="20260223085000 +0800" stop="20260223094900 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选乒乓球男单半决赛樊振东vs王楚钦</title>
-	</programme>
-	<programme channel="广东体育" start="20260223094900 +0800" stop="20260223095200 +0800">
-		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260223095200 +0800" stop="20260223105300 +0800">
-		<title lang="zh">重播行走十五运(5)(云浮肇庆篇)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223105300 +0800" stop="20260223111100 +0800">
-		<title lang="zh">重播逐梦十五运(4)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223111100 +0800" stop="20260223111500 +0800">
+	<programme channel="广东体育" start="20260224011400 +0800" stop="20260224011600 +0800">
 		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
 	</programme>
-	<programme channel="广东体育" start="20260223111500 +0800" stop="20260223111800 +0800">
-		<title lang="zh">重播广东荣耀(6)十五运广东跳水男子团体</title>
-	</programme>
-	<programme channel="广东体育" start="20260223111800 +0800" stop="20260223115400 +0800">
-		<title lang="zh">重播广东体育城势访谈录(3)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223115430 +0800" stop="20260223115900 +0800">
-		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
-	</programme>
-	<programme channel="广东体育" start="20260223115930 +0800" stop="20260223125500 +0800">
-		<title lang="zh">重播出奇智胜(810)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223125530 +0800" stop="20260223125700 +0800">
+	<programme channel="广东体育" start="20260224011600 +0800" stop="20260224011800 +0800">
 		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
 	</programme>
-	<programme channel="广东体育" start="20260223125730 +0800" stop="20260223130600 +0800">
-		<title lang="zh">重播门神守脉文武双全(5)(河源惠州)</title>
+	<programme channel="广东体育" start="20260224011800 +0800" stop="20260224024800 +0800">
+		<title lang="zh">重播2026澳大利亚网球公开赛精选女单决赛</title>
 	</programme>
-	<programme channel="广东体育" start="20260223130630 +0800" stop="20260223140100 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第10轮天津先行者vs广州朗肽海本</title>
+	<programme channel="广东体育" start="20260224024800 +0800" stop="20260224034000 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选跳水男子双人十米跳台决赛</title>
 	</programme>
-	<programme channel="广东体育" start="20260223140130 +0800" stop="20260223152400 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选(1204)田径多项</title>
+	<programme channel="广东体育" start="20260224034000 +0800" stop="20260224043200 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选跳水男子3米跳板决赛</title>
 	</programme>
-	<programme channel="广东体育" start="20260223152430 +0800" stop="20260223152700 +0800">
-		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
+	<programme channel="广东体育" start="20260224043200 +0800" stop="20260224052400 +0800">
+		<title lang="zh">重播2526CBA赛场第3轮广东东阳光vs广州朗肽海本</title>
 	</programme>
-	<programme channel="广东体育" start="20260223152730 +0800" stop="20260223153700 +0800">
+	<programme channel="广东体育" start="20260224052400 +0800" stop="20260224054300 +0800">
 		<title lang="zh">重播全运回眸(8)</title>
 	</programme>
-	<programme channel="广东体育" start="20260223153730 +0800" stop="20260223160400 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会水球项目精选男子决赛上海vs广东</title>
-	</programme>
-	<programme channel="广东体育" start="20260223160430 +0800" stop="20260223160600 +0800">
-		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260223160630 +0800" stop="20260223160800 +0800">
-		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
-	</programme>
-	<programme channel="广东体育" start="20260223160830 +0800" stop="20260223161500 +0800">
-		<title lang="zh">重播广东体育城势访谈录(3)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223161500 +0800" stop="20260223162400 +0800">
-		<title lang="zh">重播门神守脉文武双全(8)(汕头揭阳江门)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223162430 +0800" stop="20260223172500 +0800">
-		<title lang="zh">重播行走十五运(7)(中山篇)</title>
-	</programme>
-	<programme channel="广东体育" start="20260223172530 +0800" stop="20260223175000 +0800">
+	<programme channel="广东体育" start="20260224054300 +0800" stop="20260224060300 +0800">
 		<title lang="zh">重播逐梦十五运(3)</title>
 	</programme>
-	<programme channel="广东体育" start="20260223175000 +0800" stop="20260223190000 +0800">
-		<title lang="zh">重播大家小家(1)</title>
+	<programme channel="广东体育" start="20260224060300 +0800" stop="20260224065500 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选篮球女子成年组14决赛上海vs广东</title>
 	</programme>
-	<programme channel="广东体育" start="20260223190000 +0800" stop="20260223192100 +0800">
-		<title lang="zh">重播逐梦十五运(4)</title>
+	<programme channel="广东体育" start="20260224065500 +0800" stop="20260224070500 +0800">
+		<title lang="zh">重播全运回眸(6)</title>
 	</programme>
-	<programme channel="广东体育" start="20260223192100 +0800" stop="20260223213300 +0800">
-		<title lang="zh">直播20252026NBL全国男子篮球联赛常规赛第17轮(1930安徽皖江龙vs江西鲸裕清酒)</title>
+	<programme channel="广东体育" start="20260224070500 +0800" stop="20260224071500 +0800">
+		<title lang="zh">重播全运回眸(7)</title>
 	</programme>
-	<programme channel="广东体育" start="20260223213300 +0800" stop="20260223215300 +0800">
-		<title lang="zh">重播荣耀时刻第十五届全国运动会精选版田径项目</title>
+	<programme channel="广东体育" start="20260224071500 +0800" stop="20260224074800 +0800">
+		<title lang="zh">重播德甲精选(252617)</title>
 	</programme>
-	<programme channel="广东体育" start="20260223215300 +0800" stop="20260223232700 +0800">
-		<title lang="zh">首播出奇智胜(812)</title>
+	<programme channel="广东体育" start="20260224074800 +0800" stop="20260224075000 +0800">
+		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
 	</programme>
-	<programme channel="广东体育" start="20260223232700 +0800" stop="20260223235959 +0800">
-		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第13轮深圳马可波罗vs北京北汽</title>
+	<programme channel="广东体育" start="20260224075000 +0800" stop="20260224075300 +0800">
+		<title lang="zh">重播广东荣耀(6)十五运广东跳水男子团体</title>
+	</programme>
+	<programme channel="广东体育" start="20260224075300 +0800" stop="20260224084900 +0800">
+		<title lang="zh">重播第十五届全国运动会蹦床项目精选女子个人男子个人决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260224084900 +0800" stop="20260224094200 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选篮球男子成年组半决赛广东vs辽宁</title>
+	</programme>
+	<programme channel="广东体育" start="20260224094200 +0800" stop="20260224094400 +0800">
+		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224094400 +0800" stop="20260224095100 +0800">
+		<title lang="zh">重播广东荣耀(7)十五运篮球女子成年组金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224095100 +0800" stop="20260224095400 +0800">
+		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224095400 +0800" stop="20260224105500 +0800">
+		<title lang="zh">重播行走十五运(7)(中山篇)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224105500 +0800" stop="20260224111100 +0800">
+		<title lang="zh">重播逐梦十五运(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224111100 +0800" stop="20260224111500 +0800">
+		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224111500 +0800" stop="20260224111700 +0800">
+		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224111700 +0800" stop="20260224112000 +0800">
+		<title lang="zh">重播广东荣耀(6)十五运广东跳水男子团体</title>
+	</programme>
+	<programme channel="广东体育" start="20260224112000 +0800" stop="20260224120000 +0800">
+		<title lang="zh">重播广东体育城势访谈录(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224120000 +0800" stop="20260224125600 +0800">
+		<title lang="zh">重播出奇智胜(812)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224125600 +0800" stop="20260224130500 +0800">
+		<title lang="zh">重播门神守脉文武双全(1)(韶关梅州)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224130500 +0800" stop="20260224135800 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情2526CBA赛场第12轮广东东阳光vs深圳马可波罗</title>
+	</programme>
+	<programme channel="广东体育" start="20260224135800 +0800" stop="20260224152400 +0800">
+		<title lang="zh">重播跃马扬鞭体育燃情荣耀时刻第十五届全国运动会精选青年组精选女子个人全能高低杠平衡木跳马全能</title>
+	</programme>
+	<programme channel="广东体育" start="20260224152400 +0800" stop="20260224153400 +0800">
+		<title lang="zh">重播全运回眸(9)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224153400 +0800" stop="20260224160200 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会自由式小轮车精选(2)女子决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260224160200 +0800" stop="20260224160400 +0800">
+		<title lang="zh">重播广东荣耀(10)十五运男子双人3米跳板谢思埸黄博文</title>
+	</programme>
+	<programme channel="广东体育" start="20260224160400 +0800" stop="20260224160600 +0800">
+		<title lang="zh">重播广东荣耀(1)十五运田径4X100米混合接力金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224160600 +0800" stop="20260224160800 +0800">
+		<title lang="zh">重播广东荣耀(5)十五运广东跳水女子团体金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224160800 +0800" stop="20260224161500 +0800">
+		<title lang="zh">重播广东体育城势访谈录(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224161500 +0800" stop="20260224162500 +0800">
+		<title lang="zh">重播全运回眸(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224162500 +0800" stop="20260224172400 +0800">
+		<title lang="zh">重播行走十五运(1)广州篇</title>
+	</programme>
+	<programme channel="广东体育" start="20260224172400 +0800" stop="20260224172700 +0800">
+		<title lang="zh">重播广东荣耀(2)十五运男篮成年组金牌</title>
+	</programme>
+	<programme channel="广东体育" start="20260224172700 +0800" stop="20260224174700 +0800">
+		<title lang="zh">重播逐梦十五运(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224174700 +0800" stop="20260224174900 +0800">
+		<title lang="zh">重播广东荣耀(6)十五运广东跳水男子团体</title>
+	</programme>
+	<programme channel="广东体育" start="20260224174900 +0800" stop="20260224175900 +0800">
+		<title lang="zh">重播广东荣耀(4)十五运田径女子400米栏金牌莫家蝶</title>
+	</programme>
+	<programme channel="广东体育" start="20260224175900 +0800" stop="20260224190000 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会水球项目精选(1)男子决赛上海vs广东</title>
+	</programme>
+	<programme channel="广东体育" start="20260224190000 +0800" stop="20260224192300 +0800">
+		<title lang="zh">直播体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20260224192300 +0800" stop="20260224195000 +0800">
+		<title lang="zh">重播荣耀时刻第十五届全国运动会精选跳水女子双人3米板决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20260224195000 +0800" stop="20260224220000 +0800">
+		<title lang="zh">直播20252026NBL全国男子篮球联赛常规赛第17轮(2000香港金牛vs合肥狂风)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224220000 +0800" stop="20260224232700 +0800">
+		<title lang="zh">首播出奇智胜(813)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224232700 +0800" stop="20260224233400 +0800">
+		<title lang="zh">重播广东体育城势访谈录(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20260224233400 +0800" stop="20260224235959 +0800">
+		<title lang="zh">重播2526CBA赛场第17轮浙江稠州金租vs深圳马可波罗</title>
 	</programme>
 </tv>
