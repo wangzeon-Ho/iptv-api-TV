@@ -1,7 +1,6 @@
 🕘️更新时间,#genre#
-2026-03-14 18:22:01,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
+2026-03-15 06:20:02,url
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
