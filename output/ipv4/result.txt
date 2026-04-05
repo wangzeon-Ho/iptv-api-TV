@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-04-05 06:22:35,url
+2026-04-05 18:27:10,rtmp://223.76.215.33/live/xaingjiaoge-jade
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
+翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
