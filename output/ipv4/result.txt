@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-21 07:08:14,rtmp://223.76.215.33/live/xaingjiaoge-jade
+2026-05-21 20:39:43,rtmp://223.76.215.33/live/xaingjiaoge-jade
 
 ☘️广东频道,#genre#
 
@@ -7,4 +7,3 @@
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-翡翠台,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=fde7fe09ae7ae3ca7f66d9f18e0be790
