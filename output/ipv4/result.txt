@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-25 06:52:09,http://67.220.71.199:2347/livehttpplay?channel_id=12028
+2026-05-25 20:57:36,http://67.220.71.199:2347/livehttpplay?channel_id=12028
 
 ☘️广东频道,#genre#
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
