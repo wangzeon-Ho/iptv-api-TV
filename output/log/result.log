@@ -45,4 +45,4 @@ Name: 翡翠台, URL: http://cdn6.163189.xyz/163189/fct4k, From: subscribe, IPv_
 Name: 翡翠台, URL: https://cdn6.163189.xyz/163189/fct, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: rtmp://223.76.215.33/live/xaingjiaoge-jade, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州-布鲁姆菲尔德, ISP: Level3, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://45.192.97.170:8880/play/1216.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 2979 ms, Speed: 2.11 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://45.192.97.170:8880/play/1216.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 875 ms, Speed: 5.82 M/s, Resolution: 1920x1080
