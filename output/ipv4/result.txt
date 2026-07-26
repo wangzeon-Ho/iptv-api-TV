@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-26 19:15:11,rtmp://223.76.215.33/live/xaingjiaoge-jade
+2026-07-27 06:53:11,rtmp://223.76.215.33/live/xaingjiaoge-jade
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-翡翠台,http://45.192.97.170:8880/play/1216.m3u8
