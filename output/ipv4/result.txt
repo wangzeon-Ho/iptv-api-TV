@@ -1,8 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-15 06:15:46,http://27.39.122.2:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-15 18:16:13,http://27.39.122.2:9901/tsfile/live/1027_1.m3u8
 
 ☘️广东频道,#genre#
-广东体育,http://27.39.122.2:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://27.39.122.2:9901/tsfile/live/1027_1.m3u8
+广东体育,http://171.38.148.188:9003/hls/37/index.m3u8
+广东体育,http://36.136.11.230:11888/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade

@@ -1,4 +1,5 @@
 Name: 翡翠台, URL: rtmp://223.76.215.33/live/xaingjiaoge-jade, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州-布鲁姆菲尔德, ISP: Level3, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广东体育, URL: http://27.39.122.2:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 联通, Date: None, Delay: 10623 ms, Speed: 0.05 M/s, Resolution: None
-Name: 广东体育, URL: http://218.13.138.139:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 广东体育, URL: http://171.38.148.188:9003/hls/37/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-钦州, ISP: 联通, Date: None, Delay: 10404 ms, Speed: 0.01 M/s, Resolution: None
+Name: 广东体育, URL: http://27.39.122.2:9901/tsfile/live/1027_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 联通, Date: None, Delay: 10474 ms, Speed: 0.03 M/s, Resolution: None
+Name: 广东体育, URL: http://36.136.11.230:11888/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 10555 ms, Speed: 0.00 M/s, Resolution: None
