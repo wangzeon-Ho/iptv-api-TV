@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-18 18:20:45,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8
+2026-08-19 06:15:53,rtmp://223.76.215.33/live/xaingjiaoge-jade
 
 ☘️广东频道,#genre#
-广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
