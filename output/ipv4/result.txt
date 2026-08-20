@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-20 06:17:26,rtmp://223.76.215.33/live/xaingjiaoge-jade
+2026-08-20 18:23:37,http://58.255.200.180:10443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
+广东体育,http://58.255.200.180:10443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://120.198.86.186:9901/tsfile/live/1014_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
