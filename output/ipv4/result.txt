@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-09-12 21:17:42,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
+2026-09-13 07:38:49,rtmp://223.76.215.33/live/xaingjiaoge-jade
 
 ☘️广东频道,#genre#
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
