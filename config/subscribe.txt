@@ -3,6 +3,7 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+http://183.11.239.36:808/hls/2/index.m3u8
 
 
 
