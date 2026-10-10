@@ -24,6 +24,8 @@
 
 ## Workflow deployment
 
+Visit the main repository's [GitHub Pages results page](https://guovin.github.io/iptv-api/) to copy online links for player subscriptions, preview files, or download results. No fork or workflow run is needed to use these results. To generate results with your own configuration, follow the deployment steps below.
+
 Use GitHub Actions to generate results manually, serve player subscriptions from the fork's own GitHub Pages site, and create a separate Release for every run to download and save result files.
 
 > [!IMPORTANT]

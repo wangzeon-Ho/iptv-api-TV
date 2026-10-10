@@ -23,6 +23,8 @@
 
 ## 工作流部署
 
+可直接访问主仓库的 [GitHub Pages 结果页](https://guovin.github.io/iptv-api/)，复制所需的在线链接到播放器订阅，也可预览或下载结果文件。使用主仓库结果无需 Fork 或运行工作流；如需使用自己的配置生成结果，请继续以下部署步骤。
+
 使用 GitHub Actions 手动生成结果，通过 Fork 仓库自己的 GitHub Pages 提供播放器订阅，并为每次运行创建独立的 Release，供下载和保存结果文件。
 
 > [!IMPORTANT]

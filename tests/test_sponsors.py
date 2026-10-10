@@ -36,14 +36,12 @@ class SponsorPromotionTests(unittest.TestCase):
         desktop_spec = (root / "desktop_ui" / "desktop_ui.spec").read_text(encoding="utf-8")
         self.assertIn('../docs/images/helodata.png", "docs/images', desktop_spec)
 
-    def test_readmes_show_helodata_first_and_keep_ipwo_banner_centered(self):
+    def test_readmes_keep_helodata_promotion(self):
         root = Path(__file__).resolve().parents[1]
         for filename in ("README.md", "README_en.md"):
             content = (root / filename).read_text(encoding="utf-8")
-            sponsor_table = content[content.index("|:---:|:"):]
-            self.assertLess(sponsor_table.index("helodata.png"), sponsor_table.index("ipwo.webp"))
-            self.assertLess(sponsor_table.index("ipwo-banner.png"), sponsor_table.index("<strong>IPWO</strong>"))
-            self.assertIn('<p align="center"><a href="https://www.ipwo.net/', sponsor_table)
+            self.assertIn("helodata.png", content)
+            self.assertIn(HELODATA_README_URL, content)
 
     def test_console_copy_is_localized_and_includes_the_clickable_url(self):
         set_language("zh_CN")

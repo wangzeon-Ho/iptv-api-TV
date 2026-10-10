@@ -86,7 +86,6 @@
 | Sponsor | Service                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <a href="https://helodata.com?ref=iptvapi1"><img src="./docs/images/helodata.png" alt="Helodata" width="150"></a> | <p align="center"><a href="https://helodata.com?ref=iptvapi1"><img src="./docs/images/helodata-banner-en.png" alt="Helodata global proxy network" width="720"></a></p><a href="https://helodata.com?ref=iptvapi1"><strong>Helodata</strong></a> provides global proxy infrastructure covering 195+ countries and regions, with 80M+ ethically sourced residential IPs and support for Residential, ISP, Mobile, and Datacenter proxies, delivering stable and reliable data access for AI, web scraping, and automation applications.Use code <strong><code>iptvapi</code></strong> for an exclusive discount.             |
-| <a href="https://www.ipwo.net/?ref=githubGuovin"><img src="./docs/images/ipwo.webp" alt="IPWO" width="150"></a> | <p align="center"><a href="https://www.ipwo.net/?ref=githubGuovin"><img src="./docs/images/ipwo-banner.png" alt="IPWO residential proxy network" width="720"></a></p><a href="https://www.ipwo.net/?ref=githubGuovin"><strong>IPWO</strong></a> provides a stable residential proxy network for compliant scenarios such as public data collection, API debugging, automated testing, and multi-region access verification. Supports HTTP / HTTPS / SOCKS5. Coupon code: <strong><code>0105</code></strong>. Use it only with lawful authorization and in compliance with target site terms. |
 
 <p align="center">
   <a href="mailto:360996299@qq.com?subject=Become%20a%20sponsor">Become a sponsor</a>
@@ -241,6 +240,8 @@ iptv-api/                  # Project root directory
 ```
 
 ### Workflow
+
+Visit the main repository's [GitHub Pages results page](https://guovin.github.io/iptv-api/) to copy online links for player subscriptions, preview files, or download results. No fork or workflow run is needed to use these results. To generate results with your own configuration, follow the deployment steps below.
 
 > [!WARNING]
 > GitHub Actions is intended only for occasional manual generation. Results are published through a Pages artifact
